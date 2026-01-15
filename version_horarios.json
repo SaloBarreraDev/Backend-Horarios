@@ -1,7 +1,6 @@
 {
-    "version": 1,
-    "mensaje": "Horarios lapso 2025-2",
+    "version": "2",
+    "mensaje": "Test desde google colab",
     "lapso": "2025-2",
-    "fecha_actualizacion": "15/01/2026 - 10:00 AM"
-
+    "fecha_actualizacion": "15/01/2026 - 09:17 PM"
 }
