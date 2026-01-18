@@ -3,2411 +3,2800 @@
         {
             "SEC": "11",
             "FORMATO": "17,18,37,38,57,58",
-            "PROFESOR": "Jenny Gatica"
+            "PROFESOR": "Jenny Gatica",
+            "AULA": "INIA-007,INIA-007,INIA-007,INIA-007,INIA-007"
         },
         {
             "SEC": "13",
             "FORMATO": "19,110,39,310,59,510",
-            "PROFESOR": "Richard Castillo"
+            "PROFESOR": "Richard Castillo",
+            "AULA": "C-102,C-102,C-102,C-202,C-202"
         },
         {
             "SEC": "14",
             "FORMATO": "111,112,311,312,511,512",
-            "PROFESOR": "Jose Puertas"
+            "PROFESOR": "Jose Puertas",
+            "AULA": "C-104,INIA-008,INIA-008,C-107,C-107"
         },
         {
             "SEC": "15",
             "FORMATO": "19,110,39,310,59,510",
-            "PROFESOR": "Maira Aranguren"
+            "PROFESOR": "Maira Aranguren",
+            "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
         },
         {
             "SEC": "16",
             "FORMATO": "115,116,315,316,415,416",
-            "PROFESOR": "Naudy Gonzalez"
+            "PROFESOR": "Naudy Gonzalez",
+            "AULA": "C-108,C-108,C-108,C-202,C-202"
         },
         {
             "SEC": "21",
             "FORMATO": "113,114,313,314,413,414",
-            "PROFESOR": "Naudy Gonzalez"
+            "PROFESOR": "Naudy Gonzalez",
+            "AULA": "C-202,C-202,C-202,C-202,C-202"
         },
         {
             "SEC": "26",
             "FORMATO": "19,110,39,310,59,510",
-            "PROFESOR": "Eduardo Villegas"
+            "PROFESOR": "Eduardo Villegas",
+            "AULA": "E-001,E-001,E-001,E-001,E-001"
         },
         {
             "SEC": "27",
             "FORMATO": "17,18,27,28,47,48",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "C-107,INIA-006,INIA-006,INIA-006,INIA-006"
         }
     ],
     "EB1125": [
         {
             "SEC": "1",
             "FORMATO": "19,110,39,310,59,510",
-            "PROFESOR": "Carolina Cardenas"
+            "PROFESOR": "Carolina Cardenas",
+            "AULA": "C-104,IN1A- 006,IN1A- 006,C-108,C-108"
         },
         {
             "SEC": "11",
             "FORMATO": "29,210,39,310,49,410",
-            "PROFESOR": "Francy Gimenez"
+            "PROFESOR": "Francy Gimenez",
+            "AULA": "INIA-007,INIA-007,INIA-007,C-201,C-201"
         },
         {
             "SEC": "17",
             "FORMATO": "115,116,215,216,415,416",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "INIA-006,IN1A- 006,IN1A- 006,INIA-006,INIA-006"
         },
         {
             "SEC": "2",
             "FORMATO": "211,212,311,312,411,412",
-            "PROFESOR": "Pablo Perez"
+            "PROFESOR": "Pablo Perez",
+            "AULA": "C-201,C-104,C-104,C-103,C-103"
         },
         {
             "SEC": "3",
             "FORMATO": "27,28,37,38,47,48",
-            "PROFESOR": "Pablo Perez"
+            "PROFESOR": "Pablo Perez",
+            "AULA": "C-201,C-209,C-209,C-202,C-202"
         },
         {
             "SEC": "9",
             "FORMATO": "211,212,311,312,411,412",
-            "PROFESOR": "Francy Gimenez"
+            "PROFESOR": "Francy Gimenez",
+            "AULA": "INIA-007,INIA-006,INIA-006,C-201,C-201"
         }
     ],
     "EB1134": [
         {
             "SEC": "10",
             "FORMATO": "17,18,37,38,57,58",
-            "PROFESOR": "Jenny Gatica"
+            "PROFESOR": "Jenny Gatica",
+            "AULA": "INIA-006,INIA-006,INIA-006,INIA-006,INIA-006"
         },
         {
             "SEC": "2",
             "FORMATO": "17,18,37,38,57,58",
-            "PROFESOR": "Thomas Perez"
+            "PROFESOR": "Thomas Perez",
+            "AULA": "C-209,C-202,C-202,C-208,C-208"
         },
         {
             "SEC": "3",
             "FORMATO": "111,112,211,212,411,412",
-            "PROFESOR": "Enner Mendoza"
+            "PROFESOR": "Enner Mendoza",
+            "AULA": "C-108,C-102,C-102,C-102,C-102"
         },
         {
             "SEC": "4",
             "FORMATO": "19,110,29,210,49,410",
-            "PROFESOR": "Enner Mendoza"
+            "PROFESOR": "Enner Mendoza",
+            "AULA": "C-108,INIA-006,INIA-006,C-208,C-208"
         }
     ],
     "EB1144": [
         {
             "SEC": "1",
             "FORMATO": "111,112,311,312,511,512",
-            "PROFESOR": "Thomas Perez"
+            "PROFESOR": "Thomas Perez",
+            "AULA": "INIA-007,IN1A-007,IN1A-007,IN1A-007,IN1A-007"
         },
         {
             "SEC": "2",
             "FORMATO": "17,18,37,38,57,58",
-            "PROFESOR": "Carolina Cardenas"
+            "PROFESOR": "Carolina Cardenas",
+            "AULA": "C-108,INIA-006,INIA-006,C-209,C-209"
         }
     ],
     "EB1154": [
         {
             "SEC": "1",
             "FORMATO": "17,28,37,38,57,58",
-            "PROFESOR": "Eduardo Villegas"
+            "PROFESOR": "Eduardo Villegas",
+            "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
         },
         {
             "SEC": "2",
             "FORMATO": "113,114,313,314,513,514",
-            "PROFESOR": "Giovanny Lozada"
+            "PROFESOR": "Giovanny Lozada",
+            "AULA": "C-209,C-209,C-209,C-209,C-209"
         }
     ],
     "EB1213": [
         {
             "SEC": "1",
             "FORMATO": "111,112,511,512",
-            "PROFESOR": "Giovanny Lozada"
+            "PROFESOR": "Giovanny Lozada",
+            "AULA": "INIA-008,INIA-008,INIA-008"
         },
         {
             "SEC": "4",
             "FORMATO": "19,110,59,510",
-            "PROFESOR": "Jenny Gatica"
+            "PROFESOR": "Jenny Gatica",
+            "AULA": "INIA-006,INIA-006,INIA-006"
         },
         {
             "SEC": "5",
             "FORMATO": "113,114,513,514",
-            "PROFESOR": "Gilmer Gonzalez"
+            "PROFESOR": "Gilmer Gonzalez",
+            "AULA": "C-102,C-202,C-202"
         },
         {
             "SEC": "6",
             "FORMATO": "111,112,511,512",
-            "PROFESOR": "Gilmer Gonzalez"
+            "PROFESOR": "Gilmer Gonzalez",
+            "AULA": "C-103,C-103,C-103"
         },
         {
             "SEC": "8",
             "FORMATO": "19,110,59,510",
-            "PROFESOR": "Gilmer Gonzalez"
+            "PROFESOR": "Gilmer Gonzalez",
+            "AULA": "INIA-007,INIA-007,INIA-007"
         }
     ],
     "EB1312": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19",
-            "PROFESOR": "Marirosa Morello"
+            "PROFESOR": "Marirosa Morello",
+            "AULA": "C-206,C-206"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,112",
-            "PROFESOR": "Marirosa Morello"
+            "PROFESOR": "Marirosa Morello",
+            "AULA": "C-206,C-206"
         },
         {
             "SEC": "3",
             "FORMATO": "27,28,29",
-            "PROFESOR": "Carlos Linarez"
+            "PROFESOR": "Carlos Linarez",
+            "AULA": "C-206,C-206"
         },
         {
             "SEC": "4",
             "FORMATO": "47,48,49",
-            "PROFESOR": "Carlos Linarez"
+            "PROFESOR": "Carlos Linarez",
+            "AULA": "C-206,C-206"
         },
         {
             "SEC": "5",
             "FORMATO": "310,311,312",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "C-206,C-206"
         },
         {
             "SEC": "6",
             "FORMATO": "510,511,512",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "C-206,C-206"
         }
     ],
     "EB2115": [
         {
             "SEC": "1",
             "FORMATO": "27,28,37,38,47,48",
-            "PROFESOR": "Alexander Pe\u00f1a"
+            "PROFESOR": "Alexander Pe\u00f1a",
+            "AULA": "C-107,C-107,C-107,C-107,C-107"
         },
         {
             "SEC": "2",
             "FORMATO": "29,210,39,310,49,410",
-            "PROFESOR": "Sinay Rojas"
+            "PROFESOR": "Sinay Rojas",
+            "AULA": "C-108,C-108,C-108,C-108,C-108"
         },
         {
             "SEC": "3",
             "FORMATO": "29,210,39,310,49,410",
-            "PROFESOR": "Jesus Moro"
+            "PROFESOR": "Jesus Moro",
+            "AULA": "C-107,C-107,C-107,C-107,C-107"
         },
         {
             "SEC": "4",
             "FORMATO": "213,214,313,314,413,414",
-            "PROFESOR": "Paul Baptista"
+            "PROFESOR": "Paul Baptista",
+            "AULA": "C-102,C-102,C-102,C-102,C-102"
         },
         {
             "SEC": "5",
             "FORMATO": "215,216,315,316,415,416",
-            "PROFESOR": "Paul Baptista"
+            "PROFESOR": "Paul Baptista",
+            "AULA": "C-102,C-102,C-102,C-102,C-102"
         },
         {
             "SEC": "6",
             "FORMATO": "27,28,37,38,47,48",
-            "PROFESOR": "Jesus Moro"
+            "PROFESOR": "Jesus Moro",
+            "AULA": "C-108,C-108,C-108,C-108,C-108"
         },
         {
             "SEC": "7",
             "FORMATO": "29,210,39,310,49,410",
-            "PROFESOR": "Alexander Pe\u00f1a"
+            "PROFESOR": "Alexander Pe\u00f1a",
+            "AULA": "C-107,C-107,C-107,C-107,C-107"
         }
     ],
     "EB2124": [
         {
             "SEC": "1",
             "FORMATO": "17,18,37,38,57,58",
-            "PROFESOR": "Saul Moreno"
+            "PROFESOR": "Saul Moreno",
+            "AULA": "C-201,C-201,C-201,C-201,C-201"
         },
         {
             "SEC": "2",
             "FORMATO": "19,110,39,310,59,510",
-            "PROFESOR": "Yean Pablo Alvarez"
+            "PROFESOR": "Yean Pablo Alvarez",
+            "AULA": "C-201,C-201,C-201,C-201,C-201"
         },
         {
             "SEC": "3",
             "FORMATO": "111,112,311,312,511,512",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "C-201,C-201,C-201,C-201,C-201"
         }
     ],
     "EB2211": [
         {
             "SEC": "1",
             "FORMATO": "18,19,110",
-            "PROFESOR": "Paul Baptista"
+            "PROFESOR": "Paul Baptista",
+            "AULA": "LAB.1,LAB.1"
         },
         {
             "SEC": "2",
             "FORMATO": "28,29,210",
-            "PROFESOR": "Yean Pablo Alvarez"
+            "PROFESOR": "Yean Pablo Alvarez",
+            "AULA": "LAB.1,LAB.1"
         },
         {
             "SEC": "4",
             "FORMATO": "48,49,410",
-            "PROFESOR": "Yean Pablo Alvarez"
+            "PROFESOR": "Yean Pablo Alvarez",
+            "AULA": "LAB.1,LAB.1"
         },
         {
             "SEC": "5",
             "FORMATO": "58,59,510",
-            "PROFESOR": "Alexander Pe\u00f1a"
+            "PROFESOR": "Alexander Pe\u00f1a",
+            "AULA": "LAB.1,LAB.1"
         },
         {
             "SEC": "6",
             "FORMATO": "114,115,116",
-            "PROFESOR": "Jesus Moro"
+            "PROFESOR": "Jesus Moro",
+            "AULA": "LAB.1,LAB.1"
         },
         {
             "SEC": "7",
             "FORMATO": "213,214,215",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "LAB.1,LAB.1"
         },
         {
             "SEC": "8",
             "FORMATO": "313,314,315",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "LAB.1,LAB.1"
         },
         {
             "SEC": "9",
             "FORMATO": "413,414,415",
-            "PROFESOR": "CONTRATADO"
+            "PROFESOR": "CONTRATADO",
+            "AULA": "LAB.1,LAB.1"
         }
     ],
     "EB3112": [
         {
             "SEC": "12",
             "FORMATO": "313,314,315,316",
-            "PROFESOR": "Gonzalo Gil"
+            "PROFESOR": "Gonzalo Gil",
+            "AULA": "C-106,C-106,C-106"
         },
         {
             "SEC": "15",
             "FORMATO": "49,410,411,412",
-            "PROFESOR": "Gonzalo Gil"
+            "PROFESOR": "Gonzalo Gil",
+            "AULA": "C-106,C-106,C-106"
         }
     ],
     "EB3122": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,110",
-            "PROFESOR": "Gustavo Rojas"
+            "PROFESOR": "Gustavo Rojas",
+            "AULA": "C-109,C-109,C-109"
         },
         {
             "SEC": "10",
             "FORMATO": "49,410,411,412",
-            "PROFESOR": "Rafael Ramir\u00e9z"
+            "PROFESOR": "Rafael Ramir\u00e9z",
+            "AULA": "C-109,C-109,C-109"
         },
         {
             "SEC": "3",
             "FORMATO": "113,114,115,116",
-            "PROFESOR": "Gustavo Rojas"
+            "PROFESOR": "Gustavo Rojas",
+            "AULA": "C-109,C-109,C-109"
         },
         {
             "SEC": "4",
             "FORMATO": "37,38,39,310",
-            "PROFESOR": "Rafael Ramir\u00e9z"
+            "PROFESOR": "Rafael Ramir\u00e9z",
+            "AULA": "C-109,C-109,C-109"
         },
         {
             "SEC": "6",
             "FORMATO": "313,514,315,316",
-            "PROFESOR": "Rafael Ramirez"
+            "PROFESOR": "Rafael Ramirez",
+            "AULA": "C-109,C-109,C-109"
         },
         {
             "SEC": "9",
             "FORMATO": "29,210,211,212",
-            "PROFESOR": "Gustavo Rojas"
+            "PROFESOR": "Gustavo Rojas",
+            "AULA": "C-109,C-109,C-109"
         }
     ],
     "EB4121": [
         {
             "SEC": "11",
             "FORMATO": "19,110,49",
-            "PROFESOR": "Luis Arguelles"
+            "PROFESOR": "Luis Arguelles",
+            "AULA": "C-202,C-202"
         }
     ],
     "EB4131": [
         {
             "SEC": "1",
             "FORMATO": "216,415,416",
-            "PROFESOR": "Carlos Pi\u00f1a"
+            "PROFESOR": "Carlos Pi\u00f1a",
+            "AULA": "INIA-002,INIA-002"
         },
         {
             "SEC": "3",
             "FORMATO": "111,39,310",
-            "PROFESOR": "Carlos Pi\u00f1a"
+            "PROFESOR": "Carlos Pi\u00f1a",
+            "AULA": "IN1A-003,INIA-003"
         },
         {
             "SEC": "4",
             "FORMATO": "210,211,410",
-            "PROFESOR": "Balboa Melissa"
+            "PROFESOR": "Balboa Melissa",
+            "AULA": "INIA-003,INIA-002"
         },
         {
             "SEC": "5",
             "FORMATO": "28,48,49",
-            "PROFESOR": "Balboa Melissa"
+            "PROFESOR": "Balboa Melissa",
+            "AULA": "INIA-002,INIA-002"
         },
         {
             "SEC": "6",
             "FORMATO": "215,413,414",
-            "PROFESOR": "Carlos Pi\u00f1a"
+            "PROFESOR": "Carlos Pi\u00f1a",
+            "AULA": "C-209,C-209"
         },
         {
             "SEC": "7",
             "FORMATO": "211,411,412",
-            "PROFESOR": "Carlos Pi\u00f1a"
+            "PROFESOR": "Carlos Pi\u00f1a",
+            "AULA": "C-202,C-202"
         },
         {
             "SEC": "8",
             "FORMATO": "29,59,510",
-            "PROFESOR": "Balboa Melissa"
+            "PROFESOR": "Balboa Melissa",
+            "AULA": "INIA-002,INIA-002"
         },
         {
             "SEC": "9",
             "FORMATO": "110,111,49",
-            "PROFESOR": "Adriana Gomez"
+            "PROFESOR": "Adriana Gomez",
+            "AULA": "INIA-003,INIA-003"
         }
     ],
     "EB6113": [
         {
             "SEC": "11",
             "FORMATO": "19,110,215",
-            "PROFESOR": "Gianfranca Morillo"
+            "PROFESOR": "Gianfranca Morillo",
+            "AULA": "C-201,C-201"
         }
     ],
     "EB6542": [
         {
             "SEC": "1",
             "FORMATO": "39,310",
-            "PROFESOR": "Maureen Blanco"
+            "PROFESOR": "Maureen Blanco",
+            "AULA": "IN1A-105"
         },
         {
             "SEC": "2",
             "FORMATO": "311,312",
-            "PROFESOR": "Maureen Blanco"
+            "PROFESOR": "Maureen Blanco",
+            "AULA": "IN1A-105"
         },
         {
             "SEC": "3",
             "FORMATO": "213,214",
-            "PROFESOR": "Maureen Blanco"
+            "PROFESOR": "Maureen Blanco",
+            "AULA": "IN1A-105"
         }
     ],
     "EB6552": [
         {
             "SEC": "1",
             "FORMATO": "17,18",
-            "PROFESOR": "Maureen Blanco"
+            "PROFESOR": "Maureen Blanco",
+            "AULA": "IN1A-105"
         },
         {
             "SEC": "2",
             "FORMATO": "47,48",
-            "PROFESOR": "Maureen Blanco"
+            "PROFESOR": "Maureen Blanco",
+            "AULA": "IN1A-105"
         }
     ],
     "EB7113": [
         {
             "SEC": "11",
             "FORMATO": "114,115,215",
-            "PROFESOR": "Carmen Jimenez"
+            "PROFESOR": "Carmen Jimenez",
+            "AULA": "INIA-003,C-202"
         }
     ],
     "EB7123": [
         {
             "SEC": "1",
             "FORMATO": "213,413,414",
-            "PROFESOR": "Carmen Jimenez"
+            "PROFESOR": "Carmen Jimenez",
+            "AULA": "INIA-004,INIA-004"
         },
         {
             "SEC": "2",
             "FORMATO": "315,515,516",
-            "PROFESOR": "Carmen Jimenez"
+            "PROFESOR": "Carmen Jimenez",
+            "AULA": "IN1A-003,INIA-003"
         },
         {
             "SEC": "3",
             "FORMATO": "215,216,313",
-            "PROFESOR": "Nohemi Castillo"
+            "PROFESOR": "Nohemi Castillo",
+            "AULA": "INIA-003,INIA-004"
         },
         {
             "SEC": "4",
             "FORMATO": "28,29,49",
-            "PROFESOR": "Nohemi Castillo"
+            "PROFESOR": "Nohemi Castillo",
+            "AULA": "C-103,C-103"
         },
         {
             "SEC": "5",
             "FORMATO": "111,211,212",
-            "PROFESOR": "Nohemi Castillo"
+            "PROFESOR": "Nohemi Castillo",
+            "AULA": "INIA-004,INIA-004"
         },
         {
             "SEC": "6",
             "FORMATO": "214,513,514",
-            "PROFESOR": "Nohemi Castillo"
+            "PROFESOR": "Nohemi Castillo",
+            "AULA": "INIA-002,INIA-002"
         },
         {
             "SEC": "7",
             "FORMATO": "115,116,314",
-            "PROFESOR": "Victor Medina"
+            "PROFESOR": "Victor Medina",
+            "AULA": "C-103,INIA-004"
         },
         {
             "SEC": "8",
             "FORMATO": "39,310,410",
-            "PROFESOR": "Edalba Romero"
+            "PROFESOR": "Edalba Romero",
+            "AULA": "INIA-002,INIA-002"
         }
     ],
     "EB7133": [
         {
             "SEC": "1",
             "FORMATO": "315,413,414",
-            "PROFESOR": "Carmen P. Pi\u00f1a"
+            "PROFESOR": "Carmen P. Pi\u00f1a",
+            "AULA": "INIA-002,INIA-002"
         },
         {
             "SEC": "2",
             "FORMATO": "28,37,38",
-            "PROFESOR": "Mari\u00e1ngel Alvarez"
+            "PROFESOR": "Mari\u00e1ngel Alvarez",
+            "AULA": "INIA-004,INIA-004"
         },
         {
             "SEC": "3",
             "FORMATO": "115,116,513",
-            "PROFESOR": "Carmen P. Pi\u00f1a"
+            "PROFESOR": "Carmen P. Pi\u00f1a",
+            "AULA": "INIA-004,INIA-004"
         },
         {
             "SEC": "4",
             "FORMATO": "17,18,411",
-            "PROFESOR": "Mari\u00e1ngel Alvarez"
+            "PROFESOR": "Mari\u00e1ngel Alvarez",
+            "AULA": "IN1A-004,INIA-004"
         },
         {
             "SEC": "5",
             "FORMATO": "19,110,48",
-            "PROFESOR": "Mari\u00e1ngel Alvarez"
+            "PROFESOR": "Mari\u00e1ngel Alvarez",
+            "AULA": "INIA-002,INIA-004"
         }
     ],
     "EB7212": [
         {
             "SEC": "1",
             "FORMATO": "211,511,512",
-            "PROFESOR": "Blanca Pe\u00f1a"
+            "PROFESOR": "Blanca Pe\u00f1a",
+            "AULA": "INIA-002,INIA-002"
         },
         {
             "SEC": "2",
             "FORMATO": "113,114,413",
-            "PROFESOR": "Gianfranca Morillo"
+            "PROFESOR": "Gianfranca Morillo",
+            "AULA": "INIA-004,INIA-003"
         },
         {
             "SEC": "3",
             "FORMATO": "213,214,415",
-            "PROFESOR": "Gianfranca Morillo"
+            "PROFESOR": "Gianfranca Morillo",
+            "AULA": "INIA-003,INIA-003"
         },
         {
             "SEC": "4",
             "FORMATO": "19,110,59",
-            "PROFESOR": "Dolores Gonzalez"
+            "PROFESOR": "Dolores Gonzalez",
+            "AULA": "INIA-004,INIA-004"
         }
     ],
     "EL1013": [
         {
             "SEC": "1",
             "FORMATO": "410,411,412",
-            "PROFESOR": "LEAL, ROSA"
+            "PROFESOR": "LEAL, ROSA",
+            "AULA": "D004,D004"
         }
     ],
     "EL1033": [
         {
             "SEC": "1",
             "FORMATO": "47,48,49",
-            "PROFESOR": "LEAL, ROSA"
+            "PROFESOR": "LEAL, ROSA",
+            "AULA": "D004,D004"
         }
     ],
     "EL1041": [
         {
             "SEC": "1",
             "FORMATO": "410,411,412",
-            "PROFESOR": "OROZCO, AMADOR"
+            "PROFESOR": "OROZCO, AMADOR",
+            "AULA": "LAB3B,LAB3B"
         }
     ],
     "EL1054": [
         {
             "SEC": "1",
             "FORMATO": "47,48,49,410,411,412",
-            "PROFESOR": "ZAMBRANO, CARLOS / ALVARADO, IRIS"
+            "PROFESOR": "ZAMBRANO, CARLOS / ALVARADO, IRIS",
+            "AULA": "LAB3A,LAB3A,LAB3A,LAB3A,LAB3A"
         }
     ],
     "EL1123": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,58,59",
-            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL"
+            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL",
+            "AULA": "LAB3K,LAB3K,D004,D004"
         },
         {
             "SEC": "2",
             "FORMATO": "17,18,19,58,59",
-            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL"
+            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL",
+            "AULA": "LAB3K,LAB3K,D004,D004"
         },
         {
             "SEC": "3",
             "FORMATO": "110,111,112,58,59",
-            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL"
+            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL",
+            "AULA": "LAB3K,LAB3K,D004,D004"
         },
         {
             "SEC": "4",
             "FORMATO": "110,111,112,58,59",
-            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL"
+            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL",
+            "AULA": "LAB3K,LAB3K,D004,D004"
         }
     ],
     "EL1142": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,114,115",
-            "PROFESOR": "RODR\u00cdGUEZ, ROSSIRY"
+            "PROFESOR": "RODR\u00cdGUEZ, ROSSIRY",
+            "AULA": "LAB3B,LAB3B,D001,D001"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,112,114,115",
-            "PROFESOR": "RODR\u00cdGUEZ, ROSSIRY"
+            "PROFESOR": "RODR\u00cdGUEZ, ROSSIRY",
+            "AULA": "LAB3B,LAB3B,D001,D001"
         },
         {
             "SEC": "3",
             "FORMATO": "114,115,37,38,39",
-            "PROFESOR": "RODR\u00cdGUEZ, ROSSIRY"
+            "PROFESOR": "RODR\u00cdGUEZ, ROSSIRY",
+            "AULA": "D001,LAB3B,LAB3B,LAB3B"
         }
     ],
     "EL1154": [
         {
             "SEC": "1",
             "FORMATO": "210,211,410,411",
-            "PROFESOR": "NORIEGA, GABRIEL"
+            "PROFESOR": "NORIEGA, GABRIEL",
+            "AULA": "D101,D101,D101"
         }
     ],
     "EL1161": [
         {
             "SEC": "1",
             "FORMATO": "213,214,215",
-            "PROFESOR": "OROZCO, AMADOR"
+            "PROFESOR": "OROZCO, AMADOR",
+            "AULA": "LAB3B,LAB3B"
         },
         {
             "SEC": "2",
             "FORMATO": "413,414,415",
-            "PROFESOR": "OROZCO, AMADOR"
+            "PROFESOR": "OROZCO, AMADOR",
+            "AULA": "LAB3B,LAB3B"
         }
     ],
     "EL1181": [
         {
             "SEC": "1",
             "FORMATO": "27,28,29",
-            "PROFESOR": "CANDOTTI, KEILA"
+            "PROFESOR": "CANDOTTI, KEILA",
+            "AULA": "LAB3B,LAB3B"
         },
         {
             "SEC": "2",
             "FORMATO": "47,48,49",
-            "PROFESOR": "CANDOTTI, KEILA"
+            "PROFESOR": "CANDOTTI, KEILA",
+            "AULA": "LAB3B,LAB3B"
         }
     ],
     "EL1183": [
         {
             "SEC": "1",
             "FORMATO": "210,211,410,411",
-            "PROFESOR": "CANDOTTI, KEILA"
+            "PROFESOR": "CANDOTTI, KEILA",
+            "AULA": "D001,D001,D001"
         }
     ],
     "EL1223": [
         {
             "SEC": "1",
             "FORMATO": "410,411,412",
-            "PROFESOR": "BENVENUTO, OMAR"
+            "PROFESOR": "BENVENUTO, OMAR",
+            "AULA": "D003,D003"
         }
     ],
     "EL1243": [
         {
             "SEC": "1",
             "FORMATO": "28,29,48,49",
-            "PROFESOR": "NORIEGA, GABRIEL"
+            "PROFESOR": "NORIEGA, GABRIEL",
+            "AULA": "D101,D101,D101"
         }
     ],
     "EL1252": [
         {
             "SEC": "1",
             "FORMATO": "38,39,310,311",
-            "PROFESOR": "ZAMBRANO, CARLOS"
+            "PROFESOR": "ZAMBRANO, CARLOS",
+            "AULA": "LAB3A,LAB3A,LAB3A"
         }
     ],
     "EL1313": [
         {
             "SEC": "1",
             "FORMATO": "210,211,410,411",
-            "PROFESOR": "ALVARADO, IRIS"
+            "PROFESOR": "ALVARADO, IRIS",
+            "AULA": "D002,D002,D002"
         }
     ],
     "EL2113": [
         {
             "SEC": "1",
             "FORMATO": "310,311,510,511",
-            "PROFESOR": "ARROYO, LEONEL"
+            "PROFESOR": "ARROYO, LEONEL",
+            "AULA": "D002,D002,D002"
         }
     ],
     "EL2124": [
         {
             "SEC": "1",
             "FORMATO": "213,214,215,310,311,510,511",
-            "PROFESOR": "NAVARRO, DOMINGO / P\u00c9REZ, MAR\u00cdA"
+            "PROFESOR": "NAVARRO, DOMINGO / P\u00c9REZ, MAR\u00cdA",
+            "AULA": "LAB3D,LAB3D,D001,D001,D001,D001"
         },
         {
             "SEC": "2",
             "FORMATO": "310,311,313,314,315,510,511",
-            "PROFESOR": "NAVARRO, DOMINGO"
+            "PROFESOR": "NAVARRO, DOMINGO",
+            "AULA": "D001,LAB3D,LAB3D,LAB3D,D001,D001"
         },
         {
             "SEC": "3",
             "FORMATO": "310,311,413,414,415,510,511",
-            "PROFESOR": "NAVARRO, DOMINGO / P\u00c9REZ, MAR\u00cdA"
+            "PROFESOR": "NAVARRO, DOMINGO / P\u00c9REZ, MAR\u00cdA",
+            "AULA": "D001,LAB3D,LAB3D,LAB3D,D001,D001"
         }
     ],
     "EL2153": [
         {
             "SEC": "1",
             "FORMATO": "38,39,58,59",
-            "PROFESOR": "NAVARRO, DOMINGO"
+            "PROFESOR": "NAVARRO, DOMINGO",
+            "AULA": "D001,D001,D001"
         }
     ],
     "EL2164": [
         {
             "SEC": "1",
             "FORMATO": "410,411,510,511",
-            "PROFESOR": "PADILLA, MILAGRO"
+            "PROFESOR": "PADILLA, MILAGRO",
+            "AULA": "D201,D201,D201"
         }
     ],
     "EL2213": [
         {
             "SEC": "1",
             "FORMATO": "38,39,58,59",
-            "PROFESOR": "ARROYO, LEONEL"
+            "PROFESOR": "ARROYO, LEONEL",
+            "AULA": "D002,D002,D002"
         }
     ],
     "EL2223": [
         {
             "SEC": "1",
             "FORMATO": "110,111,210,211",
-            "PROFESOR": "LE\u00d3N, \u00c1NGEL"
+            "PROFESOR": "LE\u00d3N, \u00c1NGEL",
+            "AULA": "D003,D003,D003"
         }
     ],
     "EL2263": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19",
-            "PROFESOR": "GIM\u00c9NEZ, HEDDY LU"
+            "PROFESOR": "GIM\u00c9NEZ, HEDDY LU",
+            "AULA": "LAB3D,LAB3D"
         }
     ],
     "EL2273": [
         {
             "SEC": "1",
             "FORMATO": "110,111,210,211",
-            "PROFESOR": "GIM\u00c9NEZ, HEDDY LU"
+            "PROFESOR": "GIM\u00c9NEZ, HEDDY LU",
+            "AULA": "LAB3D,LAB3D,LAB3D"
         }
     ],
     "EL2281": [
         {
             "SEC": "1",
             "FORMATO": "113,114,115",
-            "PROFESOR": "LE\u00d3N, \u00c1NGEL"
+            "PROFESOR": "LE\u00d3N, \u00c1NGEL",
+            "AULA": "LAB3E,LAB3E"
         }
     ],
     "EL2313": [
         {
             "SEC": "1",
             "FORMATO": "413,414,415",
-            "PROFESOR": "PADILLA, MILAGRO"
+            "PROFESOR": "PADILLA, MILAGRO",
+            "AULA": "D201,D201"
         }
     ],
     "EL2333": [
         {
             "SEC": "1",
             "FORMATO": "47,48,49",
-            "PROFESOR": "PADILLA, MILAGRO"
+            "PROFESOR": "PADILLA, MILAGRO",
+            "AULA": "D201,D201"
         }
     ],
     "EL2664": [
         {
             "SEC": "1",
             "FORMATO": "410,411,510,511",
-            "PROFESOR": "PADILLA, MILAGRO"
+            "PROFESOR": "PADILLA, MILAGRO",
+            "AULA": "D201,D201,D201"
         }
     ],
     "EL3013": [
         {
             "SEC": "1",
             "FORMATO": "213,214,413,414",
-            "PROFESOR": "ALVARADO, IRIS"
+            "PROFESOR": "ALVARADO, IRIS",
+            "AULA": "D002,D002,D002"
         }
     ],
     "EL3033": [
         {
             "SEC": "1",
             "FORMATO": "27,28,29,213,214",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "D002,D002,LAB3I,LAB3I"
         },
         {
             "SEC": "2",
             "FORMATO": "27,28,29,215,216",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "D002,D002,LAB3I,LAB3I"
         }
     ],
     "EL3034": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,110,111",
-            "PROFESOR": "MORILLO, ELVIS"
+            "PROFESOR": "MORILLO, ELVIS",
+            "AULA": "D001,D001,LAB3I,LAB3I"
         },
         {
             "SEC": "2",
             "FORMATO": "27,28,29,210,211",
-            "PROFESOR": "SAMUEL, BLAS"
+            "PROFESOR": "SAMUEL, BLAS",
+            "AULA": "D004,D004,LAB3I,LAB3I"
         },
         {
             "SEC": "3",
             "FORMATO": "17,18,19,38,39",
-            "PROFESOR": "MORILLO, ELVIS"
+            "PROFESOR": "MORILLO, ELVIS",
+            "AULA": "D001,D001,LAB3I,LAB3I"
         },
         {
             "SEC": "4",
             "FORMATO": "17,18,19,310,311",
-            "PROFESOR": "MORILLO, ELVIS"
+            "PROFESOR": "MORILLO, ELVIS",
+            "AULA": "D001,D001,LAB3I,LAB3I"
         },
         {
             "SEC": "5",
             "FORMATO": "37,38,39,313,314",
-            "PROFESOR": "SAMUEL, BLAS"
+            "PROFESOR": "SAMUEL, BLAS",
+            "AULA": "D004,D004,LAB3I,LAB3I"
         },
         {
             "SEC": "6",
             "FORMATO": "37,38,39,510,511",
-            "PROFESOR": "SAMUEL, BLAS"
+            "PROFESOR": "SAMUEL, BLAS",
+            "AULA": "D004,D004,LAB3I,LAB3I"
         }
     ],
     "EL3121": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19",
-            "PROFESOR": "SIRA, ERIC"
+            "PROFESOR": "SIRA, ERIC",
+            "AULA": "LAB3C,LAB3C"
         },
         {
             "SEC": "2",
             "FORMATO": "27,28,29",
-            "PROFESOR": "SAMUEL, BLAS"
+            "PROFESOR": "SAMUEL, BLAS",
+            "AULA": "LAB3C,LAB3C"
         },
         {
             "SEC": "3",
             "FORMATO": "37,38,39",
-            "PROFESOR": "SIRA, ERIC"
+            "PROFESOR": "SIRA, ERIC",
+            "AULA": "LAB3C,LAB3C"
         }
     ],
     "EL3142": [
         {
             "SEC": "1",
             "FORMATO": "110,111,113,114",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "LAB3L,LAB3L,LAB3L"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,115,116",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "LAB3L,LAB3L,LAB3L"
         }
     ],
     "EL3163": [
         {
             "SEC": "1",
             "FORMATO": "213,214,413,414",
-            "PROFESOR": "ALVARADO, IRIS"
+            "PROFESOR": "ALVARADO, IRIS",
+            "AULA": "D002,D002,D002"
         }
     ],
     "EL3173": [
         {
             "SEC": "1",
             "FORMATO": "110,111,310,311",
-            "PROFESOR": "SIRA, ERIC"
+            "PROFESOR": "SIRA, ERIC",
+            "AULA": "D201,D201,D201"
         }
     ],
     "EL3183": [
         {
             "SEC": "1",
             "FORMATO": "18,19,38,39",
-            "PROFESOR": "BECERRA, LENIN"
+            "PROFESOR": "BECERRA, LENIN",
+            "AULA": "D101,D101,D101"
         }
     ],
     "EL3193": [
         {
             "SEC": "1",
             "FORMATO": "18,19,38,39",
-            "PROFESOR": "BECERRA, LENIN"
+            "PROFESOR": "BECERRA, LENIN",
+            "AULA": "D101,D101,D101"
         }
     ],
     "EL3213": [
         {
             "SEC": "1",
             "FORMATO": "28,29,48,49",
-            "PROFESOR": "BENVENUTO, OMAR"
+            "PROFESOR": "BENVENUTO, OMAR",
+            "AULA": "D003,D003,D003"
         }
     ],
     "EL3221": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19",
-            "PROFESOR": "LEAL, ROSA"
+            "PROFESOR": "LEAL, ROSA",
+            "AULA": "LAB3J,LAB3J"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,112",
-            "PROFESOR": "LEAL, ROSA"
+            "PROFESOR": "LEAL, ROSA",
+            "AULA": "LAB3J,LAB3J"
         }
     ],
     "EL3234": [
         {
             "SEC": "1",
             "FORMATO": "48,49,413,414,415,58,59",
-            "PROFESOR": "LUCENA, PABLO"
+            "PROFESOR": "LUCENA, PABLO",
+            "AULA": "LAB3L,LAB3L,LAB3L,LAB3L,LAB3L,LAB3L"
         },
         {
             "SEC": "2",
             "FORMATO": "48,49,58,59,513,514,515",
-            "PROFESOR": "LUCENA, PABLO"
+            "PROFESOR": "LUCENA, PABLO",
+            "AULA": "LAB3L,LAB3L,LAB3L,LAB3L,LAB3L,LAB3L"
         }
     ],
     "EL3324": [
         {
             "SEC": "1",
             "FORMATO": "27,28,29,213,214",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "D002,D002,LAB3I,LAB3I"
         },
         {
             "SEC": "2",
             "FORMATO": "27,28,29,215,216",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "D002,D002,LAB3I,LAB3I"
         }
     ],
     "EL3333": [
         {
             "SEC": "1",
             "FORMATO": "213,214,510,511,512",
-            "PROFESOR": "INDRIAGO, CARLOS"
+            "PROFESOR": "INDRIAGO, CARLOS",
+            "AULA": "D101,LAB3J,LAB3J,LAB3J"
         },
         {
             "SEC": "2",
             "FORMATO": "213,214,513,514,515",
-            "PROFESOR": "INDRIAGO, CARLOS"
+            "PROFESOR": "INDRIAGO, CARLOS",
+            "AULA": "D101,LAB3J,LAB3J,LAB3J"
         }
     ],
     "EL3624": [
         {
             "SEC": "1",
             "FORMATO": "27,28,29,213,214",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "D002,D002,LAB3I,LAB3I"
         },
         {
             "SEC": "2",
             "FORMATO": "27,28,29,215,216",
-            "PROFESOR": "ALVARADO, LUIS"
+            "PROFESOR": "ALVARADO, LUIS",
+            "AULA": "D002,D002,LAB3I,LAB3I"
         }
     ],
     "EL3653": [
         {
             "SEC": "1",
             "FORMATO": "110,111,310,311",
-            "PROFESOR": "BECERRA, LENIN"
+            "PROFESOR": "BECERRA, LENIN",
+            "AULA": "D101,D101,D101"
         }
     ],
     "EL3663": [
         {
             "SEC": "1",
             "FORMATO": "410,411,510,511",
-            "PROFESOR": "LUCENA, PABLO"
+            "PROFESOR": "LUCENA, PABLO",
+            "AULA": "LAB3L,LAB3L,LAB3L"
         }
     ],
     "EL4143": [
         {
             "SEC": "1",
             "FORMATO": "38,39,58,59",
-            "PROFESOR": "MONCAYO, TANIA"
+            "PROFESOR": "MONCAYO, TANIA",
+            "AULA": "LAB3K,LAB3K,LAB3K"
         }
     ],
     "EL4153": [
         {
             "SEC": "1",
             "FORMATO": "310,311,510,511",
-            "PROFESOR": "MONCAYO, TANIA"
+            "PROFESOR": "MONCAYO, TANIA",
+            "AULA": "LAB3K,LAB3K,LAB3K"
         }
     ],
     "EL4172": [
         {
             "SEC": "1",
             "FORMATO": "113,114,115",
-            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL"
+            "PROFESOR": "GARC\u00cdA, AN\u00cdBAL",
+            "AULA": "LAB3K,LAB3K"
         }
     ],
     "EL4183": [
         {
             "SEC": "1",
             "FORMATO": "213,214,413,414",
-            "PROFESOR": "GONZ\u00c1LEZ, V\u00cdCTOR"
+            "PROFESOR": "GONZ\u00c1LEZ, V\u00cdCTOR",
+            "AULA": "D001,D001,D001"
         }
     ],
     "EL4333": [
         {
             "SEC": "1",
             "FORMATO": "28,29,38,39",
-            "PROFESOR": "UZC\u00c1TEGUI, ROBERTO"
+            "PROFESOR": "UZC\u00c1TEGUI, ROBERTO",
+            "AULA": "LAB3J,LAB3J,LAB3J"
         }
     ],
     "EL4341": [
         {
             "SEC": "1",
             "FORMATO": "310,311,312",
-            "PROFESOR": "UZC\u00c1TEGUI, ROBERTO"
+            "PROFESOR": "UZC\u00c1TEGUI, ROBERTO",
+            "AULA": "LAB3J,LAB3J"
         }
     ],
     "EL4373": [
         {
             "SEC": "1",
             "FORMATO": "313,314,315",
-            "PROFESOR": "GONZ\u00c1LEZ, V\u00cdCTOR"
+            "PROFESOR": "GONZ\u00c1LEZ, V\u00cdCTOR",
+            "AULA": "D001,D001"
         }
     ],
     "EL4633": [
         {
             "SEC": "1",
             "FORMATO": "28,29,210,211",
-            "PROFESOR": "P\u00c9REZ, MAR\u00cdA CELESTE"
+            "PROFESOR": "P\u00c9REZ, MAR\u00cdA CELESTE",
+            "AULA": "LAB3L,LAB3L,LAB3L"
         }
     ],
     "EL4653": [
         {
             "SEC": "1",
             "FORMATO": "57,58,59",
-            "PROFESOR": "MAVARES, DIMAS"
+            "PROFESOR": "MAVARES, DIMAS",
+            "AULA": "D101,D101"
         }
     ],
     "EL4673": [
         {
             "SEC": "1",
             "FORMATO": "313,314,315",
-            "PROFESOR": "GONZ\u00c1LEZ V\u00cdCTOR"
+            "PROFESOR": "GONZ\u00c1LEZ V\u00cdCTOR",
+            "AULA": "D001,D001"
         }
     ],
     "EL4683": [
         {
             "SEC": "1",
             "FORMATO": "28,29,38,39",
-            "PROFESOR": "UZC\u00c1TEGUI, ROBERTO"
+            "PROFESOR": "UZC\u00c1TEGUI, ROBERTO",
+            "AULA": "LAB3J,LAB3J,LAB3J"
         }
     ],
     "EL4693": [
         {
             "SEC": "1",
             "FORMATO": "38,39,58,59",
-            "PROFESOR": "MONCAYO, TANIA"
+            "PROFESOR": "MONCAYO, TANIA",
+            "AULA": "LAB3K,LAB3K,LAB3K"
         }
     ],
     "EL5112": [
         {
             "SEC": "1",
             "FORMATO": "313,314",
-            "PROFESOR": "MONCAYO, TANIA"
+            "PROFESOR": "MONCAYO, TANIA",
+            "AULA": "D101"
         }
     ],
     "EL5123": [
         {
             "SEC": "1",
             "FORMATO": "110,111,112",
-            "PROFESOR": "MORILLO, ELVIS"
+            "PROFESOR": "MORILLO, ELVIS",
+            "AULA": "D001,D001"
         }
     ],
     "IE5014": [
         {
             "SEC": "1",
             "FORMATO": "48,49,17,18,19",
-            "PROFESOR": "ING. MARBELIS MORENO"
+            "PROFESOR": "ING. MARBELIS MORENO",
+            "AULA": "LAB2A,F-001,F-001,F-001"
         },
         {
             "SEC": "2",
             "FORMATO": "48,49,17,18,19",
-            "PROFESOR": "ING. MARBELIS MORENO"
+            "PROFESOR": "ING. MARBELIS MORENO",
+            "AULA": "LAB2A,F-001,F-001,F-001"
         },
         {
             "SEC": "3",
             "FORMATO": "410,411,17,18,19",
-            "PROFESOR": "ING. MARBELIS MORENO"
+            "PROFESOR": "ING. MARBELIS MORENO",
+            "AULA": "LAB2A,F-001,F-001,F-001"
         },
         {
             "SEC": "4",
             "FORMATO": "410,411,17,18,19",
-            "PROFESOR": "ING. MARBELIS MORENO"
+            "PROFESOR": "ING. MARBELIS MORENO",
+            "AULA": "LAB2A,F-001,F-001,F-001"
         }
     ],
     "IE5114": [
         {
             "SEC": "1",
             "FORMATO": "18,19,48,49",
-            "PROFESOR": "ING. TARCISIO PARGAS"
+            "PROFESOR": "ING. TARCISIO PARGAS",
+            "AULA": "F-004,F-004,F-004"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,310,311",
-            "PROFESOR": "ING. MIRLA CRESPO"
+            "PROFESOR": "ING. MIRLA CRESPO",
+            "AULA": "F-004,F-004,F-004"
         }
     ],
     "IE5124": [
         {
             "SEC": "1",
             "FORMATO": "27,28,47,48",
-            "PROFESOR": "ING. ANA GALLARDO"
+            "PROFESOR": "ING. ANA GALLARDO",
+            "AULA": "\u00d1C-101,\u00d1C-101,\u00d1C-101"
         },
         {
             "SEC": "2",
             "FORMATO": "38,39,58,59",
-            "PROFESOR": "ING. EDNA L\u00d3PEZ"
+            "PROFESOR": "ING. EDNA L\u00d3PEZ",
+            "AULA": "\u00d1C-101,F-004,F-004"
         }
     ],
     "IE5131": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19",
-            "PROFESOR": "ING. MIRLA CRESPO"
+            "PROFESOR": "ING. MIRLA CRESPO",
+            "AULA": "LAB2B,LAB2B"
         },
         {
             "SEC": "2",
             "FORMATO": "28,29,210",
-            "PROFESOR": "ING. TARCISIO PARGAS"
+            "PROFESOR": "ING. TARCISIO PARGAS",
+            "AULA": "LAB2B,LAB2B"
         },
         {
             "SEC": "3",
             "FORMATO": "213,214,215",
-            "PROFESOR": "ING. RAM\u00d3N VALERA"
+            "PROFESOR": "ING. RAM\u00d3N VALERA",
+            "AULA": "LAB2B,LAB2B"
         },
         {
             "SEC": "4",
             "FORMATO": "313,314,315",
-            "PROFESOR": "ING. EDNA L\u00d3PEZ"
+            "PROFESOR": "ING. EDNA L\u00d3PEZ",
+            "AULA": "LAB2B,LAB2B"
         },
         {
             "SEC": "5",
             "FORMATO": "38,39,310",
-            "PROFESOR": "ING. ANA GALLARDO"
+            "PROFESOR": "ING. ANA GALLARDO",
+            "AULA": "LAB2B,LAB2B"
         }
     ],
     "IE5213": [
         {
             "SEC": "1",
             "FORMATO": "310,311,312",
-            "PROFESOR": "ING. RAM\u00d3N VALERA"
+            "PROFESOR": "ING. RAM\u00d3N VALERA",
+            "AULA": "\u00d1C-101,\u00d1C-101"
         }
     ],
     "IE5221": [
         {
             "SEC": "1",
             "FORMATO": "29,210,211",
-            "PROFESOR": "ING. RAM\u00d3N VALERA"
+            "PROFESOR": "ING. RAM\u00d3N VALERA",
+            "AULA": "LAB2C,LAB2C"
         }
     ],
     "IE5313": [
         {
             "SEC": "1",
             "FORMATO": "210,211,310,311",
-            "PROFESOR": "ING. RAM\u00d3N VALERA"
+            "PROFESOR": "ING. RAM\u00d3N VALERA",
+            "AULA": "F-001,F-001,F-001"
         }
     ],
     "IE6013": [
         {
             "SEC": "1",
             "FORMATO": "57,58,59",
-            "PROFESOR": "ING. ROMULO PEREZ"
+            "PROFESOR": "ING. ROMULO PEREZ",
+            "AULA": "F-001,F-001"
         }
     ],
     "IE6021": [
         {
             "SEC": "1",
             "FORMATO": "113,114,115",
-            "PROFESOR": "ING. VICTOR CALLES"
+            "PROFESOR": "ING. VICTOR CALLES",
+            "AULA": "LAB2D,LAB2D"
         },
         {
             "SEC": "2",
             "FORMATO": "29,210,211",
-            "PROFESOR": "ING. JESUS VILLEGAS"
+            "PROFESOR": "ING. JESUS VILLEGAS",
+            "AULA": "LAB2D,LAB2D"
         },
         {
             "SEC": "3",
             "FORMATO": "213,214,215",
-            "PROFESOR": "ING. JESUS VILLEGAS"
+            "PROFESOR": "ING. JESUS VILLEGAS",
+            "AULA": "LAB2D,LAB2D"
         }
     ],
     "IE6112": [
         {
             "SEC": "1",
             "FORMATO": "19,110,111",
-            "PROFESOR": "ING. VICTOR CALLES"
+            "PROFESOR": "ING. VICTOR CALLES",
+            "AULA": "F-003,F-003"
         }
     ],
     "IE6122": [
         {
             "SEC": "1",
             "FORMATO": "513,514,515",
-            "PROFESOR": "ING. ANGELA TISO"
+            "PROFESOR": "ING. ANGELA TISO",
+            "AULA": "F-003,F-003"
         }
     ],
     "IE6134": [
         {
             "SEC": "1",
             "FORMATO": "113,114,313,314",
-            "PROFESOR": "ING. GUSTAVO ARAUJO"
+            "PROFESOR": "ING. GUSTAVO ARAUJO",
+            "AULA": "F-003,F-003,F-003"
         }
     ],
     "IE6142": [
         {
             "SEC": "1",
             "FORMATO": "38,39,310,311,312",
-            "PROFESOR": "ING. GUSTAVO ARAUJO"
+            "PROFESOR": "ING. GUSTAVO ARAUJO",
+            "AULA": "LAB2D,LAB2D,LAB2D,LAB2D"
         },
         {
             "SEC": "2",
             "FORMATO": "58,59,510,511,512",
-            "PROFESOR": "ING. ANGELA TISO"
+            "PROFESOR": "ING. ANGELA TISO",
+            "AULA": "LAB2D,LAB2D,LAB2D,LAB2D"
         }
     ],
     "IE6214": [
         {
             "SEC": "1",
             "FORMATO": "210,211,47,48,49",
-            "PROFESOR": "ING. MARBELIS MORENO"
+            "PROFESOR": "ING. MARBELIS MORENO",
+            "AULA": "LAB2E,LABE,LABE,LABE"
         }
     ],
     "IE6314": [
         {
             "SEC": "1",
             "FORMATO": "212,213,214,47,48,49",
-            "PROFESOR": "ING. JORGE MACERO"
+            "PROFESOR": "ING. JORGE MACERO",
+            "AULA": "LAB2F,LAB2F,F-001,F-001,F-001"
         }
     ],
     "IE7113": [
         {
             "SEC": "1",
             "FORMATO": "110,111",
-            "PROFESOR": "ING. JUAN CARLOS RANGEL"
+            "PROFESOR": "ING. JUAN CARLOS RANGEL",
+            "AULA": "\u00d1C-101"
         }
     ],
     "IE7213": [
         {
             "SEC": "1",
             "FORMATO": "18,19,210,211",
-            "PROFESOR": "ING. ROBERTO PE\u00d1A"
+            "PROFESOR": "ING. ROBERTO PE\u00d1A",
+            "AULA": "F-001,F-001,F-001"
         }
     ],
     "IE7313": [
         {
             "SEC": "1",
             "FORMATO": "19,19,28,29",
-            "PROFESOR": "ING. JUAN CARLOS RANGEL"
+            "PROFESOR": "ING. JUAN CARLOS RANGEL",
+            "AULA": "F-001,F-001,F-001"
         }
     ],
     "IE7321": [
         {
             "SEC": "1",
             "FORMATO": "28,29,210",
-            "PROFESOR": "ING. ASDRUBAL ARAUJO"
+            "PROFESOR": "ING. ASDRUBAL ARAUJO",
+            "AULA": "LAB2G,LAB2G"
         },
         {
             "SEC": "2",
             "FORMATO": "38,39,310",
-            "PROFESOR": "ING. ASDRUBAL ARAUJO"
+            "PROFESOR": "ING. ASDRUBAL ARAUJO",
+            "AULA": "LAB2G,LAB2G"
         }
     ],
     "IE7413": [
         {
             "SEC": "1",
             "FORMATO": "410,411",
-            "PROFESOR": "ING. JORGE MACERO"
+            "PROFESOR": "ING. JORGE MACERO",
+            "AULA": "F-003"
         }
     ],
     "IE7514": [
         {
             "SEC": "1",
             "FORMATO": "210,211,38,39",
-            "PROFESOR": "ING. MARBELIS MORENO"
+            "PROFESOR": "ING. MARBELIS MORENO",
+            "AULA": "F-001,F-001,F-001"
         }
     ],
     "IE7523": [
         {
             "SEC": "1",
             "FORMATO": "210,211,212",
-            "PROFESOR": "ING. ANTONIO PATI\u00d1O"
+            "PROFESOR": "ING. ANTONIO PATI\u00d1O",
+            "AULA": "\u00d1C-101,\u00d1C-101"
         }
     ],
     "IE7613": [
         {
             "SEC": "1",
             "FORMATO": "112,113,114",
-            "PROFESOR": "ING. ANTONIO PATI\u00d1O"
+            "PROFESOR": "ING. ANTONIO PATI\u00d1O",
+            "AULA": "F003,F003"
         }
     ],
     "IE7723": [
         {
             "SEC": "1",
             "FORMATO": "110,111,310,311",
-            "PROFESOR": "ING. ROBERTO PE\u00d1A"
+            "PROFESOR": "ING. ROBERTO PE\u00d1A",
+            "AULA": "F-003,F-003,F-003"
         }
     ],
     "IE7743": [
         {
             "SEC": "1",
             "FORMATO": "59,510,511",
-            "PROFESOR": "ING. TARCISIO PARGAS"
+            "PROFESOR": "ING. TARCISIO PARGAS",
+            "AULA": "F001,F001"
         }
     ],
     "IE7753": [
         {
             "SEC": "1",
             "FORMATO": "114,115,28,29,210",
-            "PROFESOR": "ING. JORGE MACERO"
+            "PROFESOR": "ING. JORGE MACERO",
+            "AULA": "LAB2F,LAB2F,LAB2F,LAB2F"
         }
     ],
     "IE8212": [
         {
             "SEC": "1",
             "FORMATO": "312,313",
-            "PROFESOR": "ING. MIRLA CRESPO"
+            "PROFESOR": "ING. MIRLA CRESPO",
+            "AULA": "F-004"
         }
     ],
     "IE8223": [
         {
             "SEC": "1",
             "FORMATO": "58,59,510",
-            "PROFESOR": "ING. MARBELIS MORENO"
+            "PROFESOR": "ING. MARBELIS MORENO",
+            "AULA": "LABE,LABE"
         }
     ],
     "II1033": [
         {
             "SEC": "1",
             "FORMATO": "514,515,610,611",
-            "PROFESOR": "MILEXA MOGOLLON"
+            "PROFESOR": "MILEXA MOGOLLON",
+            "AULA": "INI101,INI101,INI101"
         }
     ],
     "II1043": [
         {
             "SEC": "1",
             "FORMATO": "110,111,58,59",
-            "PROFESOR": "ROSA CLEMENTE"
+            "PROFESOR": "ROSA CLEMENTE",
+            "AULA": "INI104,INI104,INI104"
         }
     ],
     "II1053": [
         {
             "SEC": "1",
             "FORMATO": "210,211,48",
-            "PROFESOR": "A CONTRATAR"
+            "PROFESOR": "A CONTRATAR",
+            "AULA": "INI204,INI204"
         }
     ],
     "II1114": [
         {
             "SEC": "1",
             "FORMATO": "110,111,310,311,312",
-            "PROFESOR": "EDGAR MART\u00cdNEZ"
+            "PROFESOR": "EDGAR MART\u00cdNEZ",
+            "AULA": "INI206,INI206,INI206,INI206"
         }
     ],
     "II1123": [
         {
             "SEC": "1",
             "FORMATO": "311,312,58,59",
-            "PROFESOR": "EDGAR SANCHEZ"
+            "PROFESOR": "EDGAR SANCHEZ",
+            "AULA": "INI201,INI201,INI201"
         }
     ],
     "II1213": [
         {
             "SEC": "1",
             "FORMATO": "210,211,48,49",
-            "PROFESOR": "A CONTRATAR"
+            "PROFESOR": "A CONTRATAR",
+            "AULA": "INI204,INI204,INI204"
         }
     ],
     "II1313": [
         {
             "SEC": "1",
             "FORMATO": "514,515,610,611",
-            "PROFESOR": "MILEXA MOGOLLON"
+            "PROFESOR": "MILEXA MOGOLLON",
+            "AULA": "INI101,INI101,INI101"
         }
     ],
     "II1323": [
         {
             "SEC": "1",
             "FORMATO": "18,19,510,511",
-            "PROFESOR": "ROSA CLEMENTE"
+            "PROFESOR": "ROSA CLEMENTE",
+            "AULA": "INI206,INI206,INI206"
         }
     ],
     "II1332": [
         {
             "SEC": "1",
             "FORMATO": "27,28",
-            "PROFESOR": "TAMARA FUENTES"
+            "PROFESOR": "TAMARA FUENTES",
+            "AULA": "INI001"
         }
     ],
     "II1383": [
         {
             "SEC": "1",
             "FORMATO": "67,68,69",
-            "PROFESOR": "MILEXA MOGOLLON"
+            "PROFESOR": "MILEXA MOGOLLON",
+            "AULA": "INI101,INI101"
         }
     ],
     "II1393": [
         {
             "SEC": "1",
             "FORMATO": "47,48,49",
-            "PROFESOR": "ROSA CLEMENTE"
+            "PROFESOR": "ROSA CLEMENTE",
+            "AULA": "INI201,INI201"
         },
         {
             "SEC": "2",
             "FORMATO": "47,48,49",
-            "PROFESOR": "ROSA CLEMENTE"
+            "PROFESOR": "ROSA CLEMENTE",
+            "AULA": "INI201,INI201"
         }
     ],
     "II2113": [
         {
             "SEC": "1",
             "FORMATO": "514,515,68,69",
-            "PROFESOR": "JUAN PLAZA"
+            "PROFESOR": "JUAN PLAZA",
+            "AULA": "INI201,INI201,INI201"
         }
     ],
     "II2121": [
         {
             "SEC": "1",
             "FORMATO": "27,28,29",
-            "PROFESOR": "JUAN PLAZA"
+            "PROFESOR": "JUAN PLAZA",
+            "AULA": "LAB.TRAB,LAB.TRAB"
         },
         {
             "SEC": "2",
             "FORMATO": "47,48,49",
-            "PROFESOR": "JUAN PLAZA"
+            "PROFESOR": "JUAN PLAZA",
+            "AULA": "LAB.TRAB,LAB.TRAB"
         }
     ],
     "II2213": [
         {
             "SEC": "1",
             "FORMATO": "110,111,112,211,212",
-            "PROFESOR": "JOS\u00c9 GRATEROL"
+            "PROFESOR": "JOS\u00c9 GRATEROL",
+            "AULA": "LAB.SEG,LAB.SEG,LAB.SEG,LAB.SEG"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,112,48,49",
-            "PROFESOR": "JOS\u00c9 GRATEROL"
+            "PROFESOR": "JOS\u00c9 GRATEROL",
+            "AULA": "LAB.SEG,LAB.SEG,LAB.SEG,LAB.SEG"
         }
     ],
     "II2243": [
         {
             "SEC": "1",
             "FORMATO": "410,411,412",
-            "PROFESOR": "JOS\u00c9 GRATEROL"
+            "PROFESOR": "JOS\u00c9 GRATEROL",
+            "AULA": "INI201,INI201"
         }
     ],
     "II2311": [
         {
             "SEC": "1",
             "FORMATO": "37",
-            "PROFESOR": "HERLING SIRA"
+            "PROFESOR": "HERLING SIRA",
+            "AULA": ""
         }
     ],
     "II2322": [
         {
             "SEC": "1",
             "FORMATO": "38,39,47,48",
-            "PROFESOR": "EDGAR MART\u00cdNEZ"
+            "PROFESOR": "EDGAR MART\u00cdNEZ",
+            "AULA": "INI206,INI206,INI206"
         }
     ],
     "II2333": [
         {
             "SEC": "1",
             "FORMATO": "310,311,312",
-            "PROFESOR": "MARICELA MART\u00cdNEZ"
+            "PROFESOR": "MARICELA MART\u00cdNEZ",
+            "AULA": "INI102,INI102"
         }
     ],
     "II3023": [
         {
             "SEC": "1",
             "FORMATO": "29,210,39",
-            "PROFESOR": "GLAIFRED VASQUEZ"
+            "PROFESOR": "GLAIFRED VASQUEZ",
+            "AULA": "INI201,INI201"
         }
     ],
     "II3043": [
         {
             "SEC": "1",
             "FORMATO": "18,19,38,39",
-            "PROFESOR": "HERLING SIRA"
+            "PROFESOR": "HERLING SIRA",
+            "AULA": "INI204,INI204,INI204"
         }
     ],
     "II3114": [
         {
             "SEC": "1",
             "FORMATO": "513,514,515,67,68,69",
-            "PROFESOR": "EDUARDO PINTO"
+            "PROFESOR": "EDUARDO PINTO",
+            "AULA": "INI206,INI206,INI206,INI206,INI206"
         }
     ],
     "II3214": [
         {
             "SEC": "1",
             "FORMATO": "37,38,39,58,59",
-            "PROFESOR": "TAMARA FUENTES"
+            "PROFESOR": "TAMARA FUENTES",
+            "AULA": "INI001,INI001,INI001,INI001"
         }
     ],
     "II3223": [
         {
             "SEC": "1",
             "FORMATO": "29,210,39,310",
-            "PROFESOR": "GLAIFRED VASQUEZ"
+            "PROFESOR": "GLAIFRED VASQUEZ",
+            "AULA": "INI201,INI201,INI201"
         }
     ],
     "II3243": [
         {
             "SEC": "1",
             "FORMATO": "38,39,410,411",
-            "PROFESOR": "MARICELA MART\u00cdNEZ"
+            "PROFESOR": "MARICELA MART\u00cdNEZ",
+            "AULA": "INI102,INI102,INI102"
         }
     ],
     "II3263": [
         {
             "SEC": "1",
             "FORMATO": "516,517,610,611",
-            "PROFESOR": "EDUARDO PINTO"
+            "PROFESOR": "EDUARDO PINTO",
+            "AULA": "INI206,INI206,INI206"
         }
     ],
     "II3313": [
         {
             "SEC": "1",
             "FORMATO": "510,511,512",
-            "PROFESOR": "TAMARA FUENTES"
+            "PROFESOR": "TAMARA FUENTES",
+            "AULA": "INI001,INI001"
         }
     ],
     "IM1013": [
         {
             "SEC": "1",
             "FORMATO": "211,212,511,512",
-            "PROFESOR": "OSCAR M. JIM\u00c9NEZ P."
+            "PROFESOR": "OSCAR M. JIM\u00c9NEZ P.",
+            "AULA": "B-101,B-101,B-101"
         }
     ],
     "IM1022": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,110",
-            "PROFESOR": "MILANYELA TER\u00c1N"
+            "PROFESOR": "MILANYELA TER\u00c1N",
+            "AULA": "B-001,B-001,B-001"
         },
         {
             "SEC": "2",
             "FORMATO": "37,38,39,310",
-            "PROFESOR": "MILANYELA TER\u00c1N"
+            "PROFESOR": "MILANYELA TER\u00c1N",
+            "AULA": "B-001,B-001,B-001"
         },
         {
             "SEC": "3",
             "FORMATO": "47,48,49,410",
-            "PROFESOR": "MILANYELA TER\u00c1N"
+            "PROFESOR": "MILANYELA TER\u00c1N",
+            "AULA": "B-001,B-001,B-001"
         }
     ],
     "IM1043": [
         {
             "SEC": "1",
             "FORMATO": "27,28,57,58",
-            "PROFESOR": "OSCAR M. JIM\u00c9NEZ P."
+            "PROFESOR": "OSCAR M. JIM\u00c9NEZ P.",
+            "AULA": "B-101,B-101,B-101"
         },
         {
             "SEC": "2",
             "FORMATO": "29,210,59,510",
-            "PROFESOR": "OSCAR M. JIM\u00c9NEZ P."
+            "PROFESOR": "OSCAR M. JIM\u00c9NEZ P.",
+            "AULA": "B-101,B-101,B-101"
         }
     ],
     "IM1054": [
         {
             "SEC": "1",
             "FORMATO": "19,110,49,410,411,112",
-            "PROFESOR": "YOGERLIS ALCON"
+            "PROFESOR": "YOGERLIS ALCON",
+            "AULA": "B-101,B-101,B-101,L. RES,L. RES"
         },
         {
             "SEC": "2",
             "FORMATO": "19,110,49,410,411,412",
-            "PROFESOR": "YOGERLIS ALCON"
+            "PROFESOR": "YOGERLIS ALCON",
+            "AULA": "B-101,B-101,B-101,L. RES,L. RES"
         }
     ],
     "IM1063": [
         {
             "SEC": "1",
             "FORMATO": "214,215,57,58",
-            "PROFESOR": "DANIEL FONSECA"
+            "PROFESOR": "DANIEL FONSECA",
+            "AULA": "B-101,B-101,B-101"
         }
     ],
     "IM1112": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,110",
-            "PROFESOR": "MILANYELA TER\u00c1N"
+            "PROFESOR": "MILANYELA TER\u00c1N",
+            "AULA": "B-001,B-001,B-001"
         },
         {
             "SEC": "2",
             "FORMATO": "37,38,39,310",
-            "PROFESOR": "MILANYELA TER\u00c1N"
+            "PROFESOR": "MILANYELA TER\u00c1N",
+            "AULA": "B-001,B-001,B-001"
         },
         {
             "SEC": "3",
             "FORMATO": "47,48,49,410",
-            "PROFESOR": "MILANYELA TER\u00c1N"
+            "PROFESOR": "MILANYELA TER\u00c1N",
+            "AULA": "B-001,B-001,B-001"
         }
     ],
     "IM1253": [
         {
             "SEC": "1",
             "FORMATO": "27,28,57,58",
-            "PROFESOR": "OSCAR  M. JIM\u00c9NEZ P."
+            "PROFESOR": "OSCAR  M. JIM\u00c9NEZ P.",
+            "AULA": "B-101,B-101,B-101"
         },
         {
             "SEC": "2",
             "FORMATO": "29,210,59,510",
-            "PROFESOR": "OSCAR  M. JIM\u00c9NEZ P."
+            "PROFESOR": "OSCAR  M. JIM\u00c9NEZ P.",
+            "AULA": "B-101,B-101,B-101"
         }
     ],
     "IM1263": [
         {
             "SEC": "1",
             "FORMATO": "111,112,211,212",
-            "PROFESOR": "JOSE ESCALONA"
+            "PROFESOR": "JOSE ESCALONA",
+            "AULA": "B-102,B-102,B-102"
         }
     ],
     "IM1273": [
         {
             "SEC": "1",
             "FORMATO": "19,110,29,210",
-            "PROFESOR": "JOSE ESCALONA"
+            "PROFESOR": "JOSE ESCALONA",
+            "AULA": "B-102,B-102,B-102"
         }
     ],
     "IM1324": [
         {
             "SEC": "1",
             "FORMATO": "17,18,37,38",
-            "PROFESOR": "DANIEL FONSECA"
+            "PROFESOR": "DANIEL FONSECA",
+            "AULA": "B-102,B-101,B-101"
         }
     ],
     "IM1331": [
         {
             "SEC": "1",
             "FORMATO": "57,58,59",
-            "PROFESOR": "MILANYELA TER\u00c1N"
+            "PROFESOR": "MILANYELA TER\u00c1N",
+            "AULA": "L,RES,L.RES"
         },
         {
             "SEC": "2",
             "FORMATO": "39,310,311",
-            "PROFESOR": "YOGERLIS ALCON"
+            "PROFESOR": "YOGERLIS ALCON",
+            "AULA": "L,RES,L,RES"
         },
         {
             "SEC": "3",
             "FORMATO": "213,214,115",
-            "PROFESOR": "JOSE ESCALONA"
+            "PROFESOR": "JOSE ESCALONA",
+            "AULA": "L,RES,L,RES"
         }
     ],
     "IM1443": [
         {
             "SEC": "1",
             "FORMATO": "28,29,48,49",
-            "PROFESOR": "JOS\u00c9 MELENDEZ"
+            "PROFESOR": "JOS\u00c9 MELENDEZ",
+            "AULA": "TR-01,TR-01,TR-01"
         }
     ],
     "IM1453": [
         {
             "SEC": "1",
             "FORMATO": "210,211,212",
-            "PROFESOR": "JOS\u00c9 MELENDEZ"
+            "PROFESOR": "JOS\u00c9 MELENDEZ",
+            "AULA": "TR-01,TR-01"
         }
     ],
     "IM1463": [
         {
             "SEC": "1",
             "FORMATO": "17,18,47,48",
-            "PROFESOR": "YOGERLIS ALCON"
+            "PROFESOR": "YOGERLIS ALCON",
+            "AULA": "B-101,B-101,B-101"
         }
     ],
     "IM2014": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,113,114,115",
-            "PROFESOR": "JESUS SANCHEZ"
+            "PROFESOR": "JESUS SANCHEZ",
+            "AULA": "T.M.H,T.M.H,T.M.H,T.M.H,T.M.H"
         },
         {
             "SEC": "2",
             "FORMATO": "17,18,19,113,114,115",
-            "PROFESOR": "JESUS SANCHEZ"
+            "PROFESOR": "JESUS SANCHEZ",
+            "AULA": "T.M.H,T.M.H,T.M.H,T.M.H,T.M.H"
         },
         {
             "SEC": "3",
             "FORMATO": "18,19,114,115,116,217",
-            "PROFESOR": "OSWALDO ESCALONA"
+            "PROFESOR": "OSWALDO ESCALONA",
+            "AULA": "TR-01,T.M.H.1,T.M.H.1,T.M.H.1,TR-01"
         }
     ],
     "IM2054": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,113,114,115",
-            "PROFESOR": "JORGE  RIVERO"
+            "PROFESOR": "JORGE  RIVERO",
+            "AULA": "TTRO,TTRO,TTRO,TTRO,TTRO"
         }
     ],
     "IM2114": [
         {
             "SEC": "1",
             "FORMATO": "313,314,315,316,47,48,49",
-            "PROFESOR": "IGNACIO BERMUDEZ"
+            "PROFESOR": "IGNACIO BERMUDEZ",
+            "AULA": "T-M-H,T-M-H,T-M-H,T-M-H,T-M-H,T-M-H"
         },
         {
             "SEC": "2",
             "FORMATO": "313,314,315,316,47,48,49",
-            "PROFESOR": "IGNACIO BERMUDEZ"
+            "PROFESOR": "IGNACIO BERMUDEZ",
+            "AULA": "T-M-H,T-M-H,T-M-H,T-M-H,T-M-H,T-M-H"
         },
         {
             "SEC": "3",
             "FORMATO": "313,314,315,316,47,48,49",
-            "PROFESOR": "JORGE  RIVERO"
+            "PROFESOR": "JORGE  RIVERO",
+            "AULA": "T-M-H,T-M-H,T-M-H,T-M-H,T-M-H,T-M-H"
         }
     ],
     "IM2234": [
         {
             "SEC": "1",
             "FORMATO": "27,28,29,110,111",
-            "PROFESOR": "JORGE  RIVERO"
+            "PROFESOR": "JORGE  RIVERO",
+            "AULA": "T.TROQ,T.TROQ,T.TROQ,T.TROQ"
         },
         {
             "SEC": "2",
             "FORMATO": "27,28,29,37,38",
-            "PROFESOR": "JORGE  RIVERO"
+            "PROFESOR": "JORGE  RIVERO",
+            "AULA": "T.TROQ,T.TROQ,T.TROQ,T.TROQ"
         }
     ],
     "IM2244": [
         {
             "SEC": "1",
             "FORMATO": "57,58,59,39,310,311",
-            "PROFESOR": "OSWALDO ESCALONA"
+            "PROFESOR": "OSWALDO ESCALONA",
+            "AULA": "T.TROQ,T.TROQ,T.TROQ,T.TROQ,T.TROQ"
         },
         {
             "SEC": "2",
             "FORMATO": "57,58,59,312,313,314",
-            "PROFESOR": "OSWALDO ESCALONA"
+            "PROFESOR": "OSWALDO ESCALONA",
+            "AULA": "T.TROQ,T.TROQ,T.TROQ,T.TROQ,T.TROQ"
         }
     ],
     "IM2314": [
         {
             "SEC": "1",
             "FORMATO": "39,310,311,314,315",
-            "PROFESOR": "MARLENIS SOTELDO"
+            "PROFESOR": "MARLENIS SOTELDO",
+            "AULA": "L.MET,L.MET,L.MET,L.MET"
         },
         {
             "SEC": "2",
             "FORMATO": "39,310,311,114,115",
-            "PROFESOR": "MARLENIS SOTELDO"
+            "PROFESOR": "MARLENIS SOTELDO",
+            "AULA": "L.MET,L.MET,L.MET,L.MET"
         }
     ],
     "IM2413": [
         {
             "SEC": "1",
             "FORMATO": "110,111,112,211",
-            "PROFESOR": "FRANCISCO SALDIVIA"
+            "PROFESOR": "FRANCISCO SALDIVIA",
+            "AULA": "T-03,T-03,T-03"
         }
     ],
     "IM3023": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,210",
-            "PROFESOR": "FRANCISCO SALDIVIA"
+            "PROFESOR": "FRANCISCO SALDIVIA",
+            "AULA": "T-03,T-03,L.TRI."
         }
     ],
     "IM3153": [
         {
             "SEC": "1",
             "FORMATO": "511,512,513",
-            "PROFESOR": "ORLANDO DA SILVA"
+            "PROFESOR": "ORLANDO DA SILVA",
+            "AULA": "J-102,J-102"
         }
     ],
     "IM3163": [
         {
             "SEC": "1",
             "FORMATO": "58,59,510",
-            "PROFESOR": "ORLANDO DA SILVA"
+            "PROFESOR": "ORLANDO DA SILVA",
+            "AULA": "J-102,J-102"
         }
     ],
     "IM3173": [
         {
             "SEC": "1",
             "FORMATO": "29,210,211",
-            "PROFESOR": "YLMER SU\u00c1REZ"
+            "PROFESOR": "YLMER SU\u00c1REZ",
+            "AULA": "T-03,T-03"
         }
     ],
     "IM3184": [
         {
             "SEC": "1",
             "FORMATO": "48,49,58,59,510",
-            "PROFESOR": "YLMER SU\u00c1REZ"
+            "PROFESOR": "YLMER SU\u00c1REZ",
+            "AULA": "J-102,J-102,L.TER,L.TER"
         },
         {
             "SEC": "2",
             "FORMATO": "48,49,510,511,512",
-            "PROFESOR": "YLMER SU\u00c1REZ"
+            "PROFESOR": "YLMER SU\u00c1REZ",
+            "AULA": "J-102,J-102,L.TER,L.TER"
         }
     ],
     "IM3224": [
         {
             "SEC": "1",
             "FORMATO": "110,111,112,37,38,59",
-            "PROFESOR": "LUIS HERNANDEZ"
+            "PROFESOR": "LUIS HERNANDEZ",
+            "AULA": "FyT-101,FyT-101,FyT-101,FyT-101,L.FLUI"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,112,37,38,510",
-            "PROFESOR": "LUIS HERNANDEZ"
+            "PROFESOR": "LUIS HERNANDEZ",
+            "AULA": "FyT-101,FyT-101,FyT-101,FyT-101,L.FLUI"
         }
     ],
     "IM3234": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,311,312",
-            "PROFESOR": "LUIS HERNANDEZ"
+            "PROFESOR": "LUIS HERNANDEZ",
+            "AULA": "FyT-101,FyT-101,L. FLU.,L. FLU."
         },
         {
             "SEC": "2",
             "FORMATO": "17,18,19,57,58",
-            "PROFESOR": "LUIS HERNANDEZ"
+            "PROFESOR": "LUIS HERNANDEZ",
+            "AULA": "FyT-101,FyT-101,L. FLU.,L. FLU."
         }
     ],
     "IM3253": [
         {
             "SEC": "1",
             "FORMATO": "514,515,516,39",
-            "PROFESOR": "ORLANDO DA SILVA"
+            "PROFESOR": "ORLANDO DA SILVA",
+            "AULA": "J102,J-102,FyT-101"
         }
     ],
     "IM3323": [
         {
             "SEC": "1",
             "FORMATO": "27,28,37,38",
-            "PROFESOR": "JOS\u00c9 ENMANUEL DIAZ"
+            "PROFESOR": "JOS\u00c9 ENMANUEL DIAZ",
+            "AULA": "T-03,T-03,T-03"
         }
     ],
     "IM3333": [
         {
             "SEC": "1",
             "FORMATO": "47,48,57,58",
-            "PROFESOR": "JOS\u00c9 ENMANUEL DIAZ"
+            "PROFESOR": "JOS\u00c9 ENMANUEL DIAZ",
+            "AULA": "T-03,T-03,T-03"
         }
     ],
     "IM3633": [
         {
             "SEC": "1",
             "FORMATO": "17,18,19,27",
-            "PROFESOR": "FRANCISCO SALDIVIA"
+            "PROFESOR": "FRANCISCO SALDIVIA",
+            "AULA": "L-TRI,L-TRI,L-TRI"
         },
         {
             "SEC": "2",
             "FORMATO": "17,18,19,28",
-            "PROFESOR": "FRANCISCO SALDIVIA"
+            "PROFESOR": "FRANCISCO SALDIVIA",
+            "AULA": "T-03,T-03,L.TRI"
         },
         {
             "SEC": "3",
             "FORMATO": "17,18,19,29",
-            "PROFESOR": "FRANCISCO SALDIVIA"
+            "PROFESOR": "FRANCISCO SALDIVIA",
+            "AULA": "T-03,T-03,L.TRI"
         }
     ],
     "IM4112": [
         {
             "SEC": "1",
             "FORMATO": "19,110",
-            "PROFESOR": "JOS\u00c9 MELENDEZ"
+            "PROFESOR": "JOS\u00c9 MELENDEZ",
+            "AULA": "TR-01"
         }
     ],
     "IM4123": [
         {
             "SEC": "1",
             "FORMATO": "39,510,511",
-            "PROFESOR": "JOS\u00c9 MELENDEZ"
+            "PROFESOR": "JOS\u00c9 MELENDEZ",
+            "AULA": "B-101,B-101"
         }
     ],
     "IM51216": [
         {
             "SEC": "1",
             "FORMATO": "",
-            "PROFESOR": "MILANYELA TERAN"
+            "PROFESOR": "MILANYELA TERAN",
+            "AULA": ""
         }
     ],
     "IQ3022": [
         {
             "SEC": "1",
             "FORMATO": "19,110,111,112,113,114",
-            "PROFESOR": "YRIS JIMENEZ"
+            "PROFESOR": "YRIS JIMENEZ",
+            "AULA": "LAB.QUA,LAB.QUA,LAB.QUA,LAB.QUA,LAB. QUA"
         }
     ],
     "IQ3113": [
         {
             "SEC": "1",
             "FORMATO": "29,210,59,510",
-            "PROFESOR": "ALEJANDRA ESCOBAR"
+            "PROFESOR": "ALEJANDRA ESCOBAR",
+            "AULA": "E-004,E-104,E-104"
         }
     ],
     "IQ3121": [
         {
             "SEC": "1",
             "FORMATO": "310,311,312",
-            "PROFESOR": "DIANA POSADA"
+            "PROFESOR": "DIANA POSADA",
+            "AULA": "LAB- QUG,LAB- QUG"
         },
         {
             "SEC": "2",
             "FORMATO": "410,411,412",
-            "PROFESOR": "DIANA POSADA"
+            "PROFESOR": "DIANA POSADA",
+            "AULA": "LAB- QUG,LAB- QUG"
         }
     ],
     "IQ3213": [
         {
             "SEC": "1",
             "FORMATO": "18,19,38,39",
-            "PROFESOR": "KAROLINE AGUILERA"
+            "PROFESOR": "KAROLINE AGUILERA",
+            "AULA": "E-003,E-003,E-003"
         }
     ],
     "IQ3222": [
         {
             "SEC": "1",
             "FORMATO": "19,110,111,112,113,114",
-            "PROFESOR": "YRIS JIMENEZ"
+            "PROFESOR": "YRIS JIMENEZ",
+            "AULA": "LAB.QUA,LAB.QUA,LAB.QUA,LAB.QUA,LAB.QUA"
         },
         {
             "SEC": "2",
             "FORMATO": "48,49,410,411,412,413",
-            "PROFESOR": "YRIS JIMENEZ"
+            "PROFESOR": "YRIS JIMENEZ",
+            "AULA": "LAB.QUA,LAB.QUA,LAB.QUA,LAB.QUA,LAB.QUA"
         }
     ],
     "IQ3233": [
         {
             "SEC": "1",
             "FORMATO": "111,112,410,411,412",
-            "PROFESOR": "MAYANTINO GARABOTO"
+            "PROFESOR": "MAYANTINO GARABOTO",
+            "AULA": "E-101,E-104,E-104,E-104"
         }
     ],
     "IQ3241": [
         {
             "SEC": "1",
             "FORMATO": "29,210,211",
-            "PROFESOR": "MAYANTINO GARABOTO"
+            "PROFESOR": "MAYANTINO GARABOTO",
+            "AULA": "LAB-AIN,LAB-AIN"
         },
         {
             "SEC": "2",
             "FORMATO": "212,213,214",
-            "PROFESOR": "MAYANTINO GARABOTO"
+            "PROFESOR": "MAYANTINO GARABOTO",
+            "AULA": "LAB-AIN,LAB-AIN"
         }
     ],
     "IQ3313": [
         {
             "SEC": "1",
             "FORMATO": "111,112,311,312",
-            "PROFESOR": "ANIELLO RIZZO"
+            "PROFESOR": "ANIELLO RIZZO",
+            "AULA": "E-001,E-001,E-001"
         }
     ],
     "IQ3323": [
         {
             "SEC": "1",
             "FORMATO": "510,511,512",
-            "PROFESOR": "ANIELLO RIZZO"
+            "PROFESOR": "ANIELLO RIZZO",
+            "AULA": "E-101,E-101"
         }
     ],
     "IQ3332": [
         {
             "SEC": "1",
             "FORMATO": "19,110,111,112,113,114",
-            "PROFESOR": "FRANKLIN VARGAS"
+            "PROFESOR": "FRANKLIN VARGAS",
+            "AULA": "LAB.QUO,LAB.QUO,LAB.QUO,LAB.QUO,LAB.QUO"
         }
     ],
     "IQ3413": [
         {
             "SEC": "1",
             "FORMATO": "37,38,411,412",
-            "PROFESOR": "JUAN RODRIGUEZ"
+            "PROFESOR": "JUAN RODRIGUEZ",
+            "AULA": "E-104,E-004,E-004"
         }
     ],
     "IQ3421": [
         {
             "SEC": "1",
             "FORMATO": "57,58,59",
-            "PROFESOR": "LUISA PIMENTEL"
+            "PROFESOR": "LUISA PIMENTEL",
+            "AULA": "LAB-TCM,LAB-TCM"
         },
         {
             "SEC": "2",
             "FORMATO": "510,511,512",
-            "PROFESOR": "LUISA PIMENTEL"
+            "PROFESOR": "LUISA PIMENTEL",
+            "AULA": "LAB-TCM,LAB-TCM"
         }
     ],
     "IQ4003": [
         {
             "SEC": "2",
             "FORMATO": "210,211,510,511",
-            "PROFESOR": "JULIAN BIROLLO"
+            "PROFESOR": "JULIAN BIROLLO",
+            "AULA": "E-101,E-004,E-004"
         }
     ],
     "IQ4013": [
         {
             "SEC": "1",
             "FORMATO": "28,29,510,511",
-            "PROFESOR": "MIRIAN ALVAREZ"
+            "PROFESOR": "MIRIAN ALVAREZ",
+            "AULA": "E-101,E-002,E-002"
         }
     ],
     "IQ4031": [
         {
             "SEC": "1",
             "FORMATO": "211,212,213",
-            "PROFESOR": "MAXIAN VISCAYA"
+            "PROFESOR": "MAXIAN VISCAYA",
+            "AULA": "LAB- FEN,LAB-FEN"
         },
         {
             "SEC": "2",
             "FORMATO": "59,510,511",
-            "PROFESOR": "MIRIAN ALVAREZ"
+            "PROFESOR": "MIRIAN ALVAREZ",
+            "AULA": "LAB- FEN,LAB-FEN"
         }
     ],
     "IQ4034": [
         {
             "SEC": "2",
             "FORMATO": "210,211,510,511",
-            "PROFESOR": "JULIAN BIROLLO"
+            "PROFESOR": "JULIAN BIROLLO",
+            "AULA": "E-101,E-004,E-004"
         }
     ],
     "IQ4063": [
         {
             "SEC": "2",
             "FORMATO": "310,311,410,411",
-            "PROFESOR": "ANGEL MELENDEZ"
+            "PROFESOR": "ANGEL MELENDEZ",
+            "AULA": "E-004,E-101,E-101"
         }
     ],
     "IQ4073": [
         {
             "SEC": "2",
             "FORMATO": "210,211,58,59",
-            "PROFESOR": "JULIAN LOVERA"
+            "PROFESOR": "JULIAN LOVERA",
+            "AULA": "E-002,E-004,E-004"
         }
     ],
     "IQ4093": [
         {
             "SEC": "2",
             "FORMATO": "211,212,511,512",
-            "PROFESOR": "ALEJANDRA ESCOBAR"
+            "PROFESOR": "ALEJANDRA ESCOBAR",
+            "AULA": "E-004,E-003,E-003"
         }
     ],
     "IQ4113": [
         {
             "SEC": "1",
             "FORMATO": "19,110,29,210",
-            "PROFESOR": "JUAN FREITEZ"
+            "PROFESOR": "JUAN FREITEZ",
+            "AULA": "E-004,E-104,E-104"
         }
     ],
     "IQ4213": [
         {
             "SEC": "1",
             "FORMATO": "38,39,47,48",
-            "PROFESOR": "ANGEL MELENDEZ"
+            "PROFESOR": "ANGEL MELENDEZ",
+            "AULA": "E-004,E-101,E-101"
         }
     ],
     "IQ4224": [
         {
             "SEC": "1",
             "FORMATO": "29,210,38,39",
-            "PROFESOR": "MARIA GABRIELA LUCENA"
+            "PROFESOR": "MARIA GABRIELA LUCENA",
+            "AULA": "E-003,E-002,E-002"
         }
     ],
     "IQ4313": [
         {
             "SEC": "1",
             "FORMATO": "28,29,510,511",
-            "PROFESOR": "MIRIAN ALVAREZ"
+            "PROFESOR": "MIRIAN ALVAREZ",
+            "AULA": "E-101,E-002,E-002"
         }
     ],
     "IQ4331": [
         {
             "SEC": "1",
             "FORMATO": "211,212,213",
-            "PROFESOR": "JULISSA VELASQUEZ"
+            "PROFESOR": "JULISSA VELASQUEZ",
+            "AULA": "LAB- FEN,LAB-FEN"
         },
         {
             "SEC": "2",
             "FORMATO": "310,311,312",
-            "PROFESOR": "MAR\u00cdA GABRIELA LUCENA"
+            "PROFESOR": "MAR\u00cdA GABRIELA LUCENA",
+            "AULA": "LAB- FEN,LAB-FEN"
         }
     ],
     "IQ4334": [
         {
             "SEC": "1",
             "FORMATO": "27,28,58,59",
-            "PROFESOR": "JULIAN BIROLLO"
+            "PROFESOR": "JULIAN BIROLLO",
+            "AULA": "E-004,E-101,E-101"
         }
     ],
     "IQ4414": [
         {
             "SEC": "1",
             "FORMATO": "17,18,57,58",
-            "PROFESOR": "MAXIAN VISCAYA"
+            "PROFESOR": "MAXIAN VISCAYA",
+            "AULA": "E-001,E-104,E-104"
         }
     ],
     "IQ4432": [
         {
             "SEC": "1",
             "FORMATO": "48,49,410,411,412",
-            "PROFESOR": "JULIO CORDERO"
+            "PROFESOR": "JULIO CORDERO",
+            "AULA": "LAB- OPU,LAB- OPU,LAB- OPU,LAB- OPU"
         }
     ],
     "IQ4513": [
         {
             "SEC": "1",
             "FORMATO": "47,48,49,410",
-            "PROFESOR": "JUAN RODRIGUEZ"
+            "PROFESOR": "JUAN RODRIGUEZ",
+            "AULA": "E-004,E-004,E-004"
         }
     ],
     "IQ4523": [
         {
             "SEC": "1",
             "FORMATO": "39,310,57,58",
-            "PROFESOR": "JUAN RODRIGUEZ"
+            "PROFESOR": "JUAN RODRIGUEZ",
+            "AULA": "E-104,E-001,E-001"
         }
     ],
     "IQ4532": [
         {
             "SEC": "1",
             "FORMATO": "411,412,413",
-            "PROFESOR": "ARIANA CA\u00d1IZALES"
+            "PROFESOR": "ARIANA CA\u00d1IZALES",
+            "AULA": "POSTGR,POSTGR"
         }
     ],
     "IQ4543": [
         {
             "SEC": "1",
             "FORMATO": "29,210,211",
-            "PROFESOR": "JULISSA VELASQUEZ"
+            "PROFESOR": "JULISSA VELASQUEZ",
+            "AULA": "Dpto,Dpto"
         },
         {
             "SEC": "2",
             "FORMATO": "29,210,211",
-            "PROFESOR": "JULISSA VELASQUEZ"
+            "PROFESOR": "JULISSA VELASQUEZ",
+            "AULA": "Dpto,Dpto"
         }
     ],
     "IQ4613": [
         {
             "SEC": "1",
             "FORMATO": "310,311,312",
-            "PROFESOR": "LUISA PIMENTEL"
+            "PROFESOR": "LUISA PIMENTEL",
+            "AULA": "E-101,E-101"
         }
     ],
     "IQ4683": [
         {
             "SEC": "1",
             "FORMATO": "210,211,212",
-            "PROFESOR": "JUAN FREITEZ"
+            "PROFESOR": "JUAN FREITEZ",
+            "AULA": "E-103,E-103"
         },
         {
             "SEC": "2",
             "FORMATO": "110,111,112",
-            "PROFESOR": "JUAN FREITEZ"
+            "PROFESOR": "JUAN FREITEZ",
+            "AULA": "E-103,E-103"
         }
     ],
     "IQ47216": [
         {
             "SEC": "1",
             "FORMATO": "410,411,412",
-            "PROFESOR": "KAROLINE AGUILERA"
+            "PROFESOR": "KAROLINE AGUILERA",
+            "AULA": "Dpto,Dpto"
         }
     ],
     "IQ5113": [
         {
             "SEC": "11",
             "FORMATO": "113,114,313,314",
-            "PROFESOR": "ANGEL MELENDEZ"
+            "PROFESOR": "ANGEL MELENDEZ",
+            "AULA": "E-003,E-003,E-003"
         },
         {
             "SEC": "12",
             "FORMATO": "113,114,313,314",
-            "PROFESOR": "JESUS IDROGO"
+            "PROFESOR": "JESUS IDROGO",
+            "AULA": "E-002,E-002,E-002"
         },
         {
             "SEC": "13",
             "FORMATO": "210,211,410,411",
-            "PROFESOR": "KAROLINE AGUILERA"
+            "PROFESOR": "KAROLINE AGUILERA",
+            "AULA": "E001,E-001,E-001"
         }
     ],
     "MT": [
         {
             "SEC": "1",
             "FORMATO": "210,211",
-            "PROFESOR": "OSCAR P\u00c9REZ T."
+            "PROFESOR": "OSCAR P\u00c9REZ T.",
+            "AULA": "K-002"
         }
     ],
     "MT1013": [
         {
             "SEC": "1",
             "FORMATO": "28,29,310,311",
-            "PROFESOR": "JOSE A. ANDRADE"
+            "PROFESOR": "JOSE A. ANDRADE",
+            "AULA": "K-002,LAB-TT,LAB-TT"
         },
         {
             "SEC": "2",
             "FORMATO": "28,29,510,511",
-            "PROFESOR": "JOSE A. ANDRADE"
+            "PROFESOR": "JOSE A. ANDRADE",
+            "AULA": "K-002,LAB-TT,LAB-TT"
         }
     ],
     "MT1015": [
         {
             "SEC": "1",
             "FORMATO": "213,214,410,411,215,216",
-            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO"
+            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO",
+            "AULA": "K-003,K-003,K-003,LAB-MT,LAB-MT"
         },
         {
             "SEC": "2",
             "FORMATO": "213,214,410,411,315,316",
-            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO"
+            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO",
+            "AULA": "K-003,K-003,K-003,LAB-MT,LAB-MT"
         },
         {
             "SEC": "3",
             "FORMATO": "213,214,410,411,415,416",
-            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO"
+            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO",
+            "AULA": "K-003,K-003,K-003,LAB-MT,LAB-MT"
         },
         {
             "SEC": "4",
             "FORMATO": "213,214,410,411,115,116",
-            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO"
+            "PROFESOR": "JES\u00daS HOYO/ADRIANA ALMAO",
+            "AULA": "K-003,K-003,K-003,LAB-MT,LAB-MT"
         }
     ],
     "MT1023": [
         {
             "SEC": "1",
             "FORMATO": "48,49,410,411",
-            "PROFESOR": "ARGEXANDER CARBALLO"
+            "PROFESOR": "ARGEXANDER CARBALLO",
+            "AULA": "K-003,LAB-END,LAB-END"
         }
     ],
     "MT1134": [
         {
             "SEC": "1",
             "FORMATO": "27,28,29,310,311",
-            "PROFESOR": "YRAIMA RICO"
+            "PROFESOR": "YRAIMA RICO",
+            "AULA": "K-003,K-003,LAB-MT,LAB-MT"
         },
         {
             "SEC": "2",
             "FORMATO": "27,18,19,310,311",
-            "PROFESOR": "YRAIMA RICO"
+            "PROFESOR": "YRAIMA RICO",
+            "AULA": "K-003,K-003,LAB-MT,LAB-MT"
         }
     ],
     "MT1144": [
         {
             "SEC": "1",
             "FORMATO": "47,48,49,58,59",
-            "PROFESOR": "YRAIMA RICO"
+            "PROFESOR": "YRAIMA RICO",
+            "AULA": "K-003,K-003,LAB-MF,LAB-MF"
         },
         {
             "SEC": "2",
             "FORMATO": "47,48,49,58,59",
-            "PROFESOR": "YRAIMA RICO"
+            "PROFESOR": "YRAIMA RICO",
+            "AULA": "K-003,K-003,LAB-MF,LAB-MF"
         }
     ],
     "MT1223": [
         {
             "SEC": "1",
             "FORMATO": "48,49,410,411",
-            "PROFESOR": "ARGEXANDER CARBALLO"
+            "PROFESOR": "ARGEXANDER CARBALLO",
+            "AULA": "K-003,LAB-END,LAB-END"
         },
         {
             "SEC": "2",
             "FORMATO": "48,49,410,411",
-            "PROFESOR": "ARGEXANDER CARBALLO"
+            "PROFESOR": "ARGEXANDER CARBALLO",
+            "AULA": "K-003,LAB-END,LAB-END"
         }
     ],
     "MT1313": [
         {
             "SEC": "1",
             "FORMATO": "28,29,48,49",
-            "PROFESOR": "JOS\u00c9 A. ANDRADE"
+            "PROFESOR": "JOS\u00c9 A. ANDRADE",
+            "AULA": "K-002,LAB-TT,LAB-TT"
         },
         {
             "SEC": "2",
             "FORMATO": "28,29,48,49",
-            "PROFESOR": "JOS\u00c9 A. ANDRADE"
+            "PROFESOR": "JOS\u00c9 A. ANDRADE",
+            "AULA": "K-002,LAB-TT,LAB-TT"
         }
     ],
     "MT1623": [
         {
             "SEC": "1",
             "FORMATO": "58,59,510",
-            "PROFESOR": "JOS\u00c9 A. ANDRADE"
+            "PROFESOR": "JOS\u00c9 A. ANDRADE",
+            "AULA": "K-003,K-003"
         }
     ],
     "MT2013": [
         {
             "SEC": "1",
             "FORMATO": "210,211,312,313",
-            "PROFESOR": "JEANNETTE HERN\u00c1NDEZ"
+            "PROFESOR": "JEANNETTE HERN\u00c1NDEZ",
+            "AULA": "K-004,LAB-C,LAB-C"
         }
     ],
     "MT2103": [
         {
             "SEC": "1",
             "FORMATO": "311,312,513",
-            "PROFESOR": "ERIKA CASTILLO"
+            "PROFESOR": "ERIKA CASTILLO",
+            "AULA": "K-003,K-003"
         }
     ],
     "MT2133": [
         {
             "SEC": "1",
             "FORMATO": "313,314,315",
-            "PROFESOR": "ERIKA CASTILLO"
+            "PROFESOR": "ERIKA CASTILLO",
+            "AULA": "K-004,K-004"
         }
     ],
     "MT2143": [
         {
             "SEC": "1",
             "FORMATO": "27,28,39,310",
-            "PROFESOR": "LIBANO GARCIA"
+            "PROFESOR": "LIBANO GARCIA",
+            "AULA": "K-004,K-004,K-004"
         }
     ],
     "MT2212": [
         {
             "SEC": "1",
             "FORMATO": "411,412",
-            "PROFESOR": "OSCAR P\u00c9REZ T."
+            "PROFESOR": "OSCAR P\u00c9REZ T.",
+            "AULA": "K-004"
         }
     ],
     "MT2222": [
         {
             "SEC": "1",
             "FORMATO": "48,49",
-            "PROFESOR": "JOS\u00c9 R. TORBELLO"
+            "PROFESOR": "JOS\u00c9 R. TORBELLO",
+            "AULA": "K-002"
         }
     ],
     "MT2231": [
         {
             "SEC": "1",
             "FORMATO": "213,214,215",
-            "PROFESOR": "LIBANO GARCIA"
+            "PROFESOR": "LIBANO GARCIA",
+            "AULA": "LAB-EXT,LAB-EXT"
         },
         {
             "SEC": "2",
             "FORMATO": "513,514,515",
-            "PROFESOR": "LIBANO GARCIA"
+            "PROFESOR": "LIBANO GARCIA",
+            "AULA": "LAB-EXT,LAB-EXT"
         }
     ],
     "MT2323": [
         {
             "SEC": "1",
             "FORMATO": "210,211,312,313",
-            "PROFESOR": "JEANNETTE HERN\u00c1NDEZ"
+            "PROFESOR": "JEANNETTE HERN\u00c1NDEZ",
+            "AULA": "K-004,LAB-C,LAB-C"
         },
         {
             "SEC": "2",
             "FORMATO": "210,211,312,313",
-            "PROFESOR": "JEANNETTE HERN\u00c1NDEZ"
+            "PROFESOR": "JEANNETTE HERN\u00c1NDEZ",
+            "AULA": "K-004,LAB-C,LAB-C"
         }
     ],
     "MT2613": [
         {
             "SEC": "4",
             "FORMATO": "410,411",
-            "PROFESOR": "JOS\u00c9 R. TORBELLO"
+            "PROFESOR": "JOS\u00c9 R. TORBELLO",
+            "AULA": "K-002"
         }
     ],
     "MT3111": [
         {
             "SEC": "1",
             "FORMATO": "48,49",
-            "PROFESOR": "RIGEL GUTI\u00c9RREZ"
+            "PROFESOR": "RIGEL GUTI\u00c9RREZ",
+            "AULA": "LAB-MM"
         },
         {
             "SEC": "2",
             "FORMATO": "48,49",
-            "PROFESOR": "RIGEL GUTI\u00c9RREZ"
+            "PROFESOR": "RIGEL GUTI\u00c9RREZ",
+            "AULA": "LAB-MM"
         }
     ],
     "MT3112": [
         {
             "SEC": "1",
             "FORMATO": "310,311",
-            "PROFESOR": "ADRIANA ALMAO"
+            "PROFESOR": "ADRIANA ALMAO",
+            "AULA": "K-002"
         }
     ],
     "MT3132": [
         {
             "SEC": "1",
             "FORMATO": "37,38",
-            "PROFESOR": "RIGEL GUTI\u00c9RREZ"
+            "PROFESOR": "RIGEL GUTI\u00c9RREZ",
+            "AULA": "K-002"
         }
     ],
     "MT3633": [
         {
             "SEC": "1",
             "FORMATO": "18,19",
-            "PROFESOR": "ARGEXANDER CARBALLO"
+            "PROFESOR": "ARGEXANDER CARBALLO",
+            "AULA": "K-002"
         }
     ],
     "MT4023": [
         {
             "SEC": "1",
             "FORMATO": "311,312,37,38,39",
-            "PROFESOR": "RONNY RODRIGUEZ"
+            "PROFESOR": "RONNY RODRIGUEZ",
+            "AULA": "K-004,LAB-F,LAB-F,LAB-F"
         }
     ],
     "MT4053": [
         {
             "SEC": "1",
             "FORMATO": "214,215,48,49",
-            "PROFESOR": "DANNY ESPINOZA"
+            "PROFESOR": "DANNY ESPINOZA",
+            "AULA": "K003,LAB-S,LAB-S"
         },
         {
             "SEC": "2",
             "FORMATO": "214,215,48,49",
-            "PROFESOR": "DANNY ESPINOZA"
+            "PROFESOR": "DANNY ESPINOZA",
+            "AULA": "K003,LAB-S,LAB-S"
         },
         {
             "SEC": "3",
             "FORMATO": "214,215,410,411",
-            "PROFESOR": "DANNY ESPINOZA"
+            "PROFESOR": "DANNY ESPINOZA",
+            "AULA": "K003,LAB-S,LAB-S"
         }
     ],
     "MT4123": [
         {
             "SEC": "1",
             "FORMATO": "48,49,48,49",
-            "PROFESOR": "DANNY ESPINOZA"
+            "PROFESOR": "DANNY ESPINOZA",
+            "AULA": "K-004,LAB-S,LAB-S"
         },
         {
             "SEC": "2",
             "FORMATO": "48,49,410,411",
-            "PROFESOR": "DANNY ESPINOZA"
+            "PROFESOR": "DANNY ESPINOZA",
+            "AULA": "K-004,LAB-S,LAB-S"
         }
     ],
     "MT4213": [
         {
             "SEC": "1",
             "FORMATO": "311,312,37,38,39",
-            "PROFESOR": "RONNY RODRIGUEZ"
+            "PROFESOR": "RONNY RODRIGUEZ",
+            "AULA": "K-004,LAB-F,LAB-F,LAB-F"
         },
         {
             "SEC": "2",
             "FORMATO": "311,312,48,49,410",
-            "PROFESOR": "RONNY RODRIGUEZ"
+            "PROFESOR": "RONNY RODRIGUEZ",
+            "AULA": "K-004,LAB-F,LAB-F,LAB-F"
         }
     ],
     "MT4234": [
         {
             "SEC": "1",
             "FORMATO": "116,117,516,517",
-            "PROFESOR": "JULIAN GONZ\u00c1LEZ"
+            "PROFESOR": "JULIAN GONZ\u00c1LEZ",
+            "AULA": "K-002,K-002,K-002"
         }
     ],
     "MT4673": [
         {
             "SEC": "1",
             "FORMATO": "18,19,110",
-            "PROFESOR": "DANNY ESPINOZA"
+            "PROFESOR": "DANNY ESPINOZA",
+            "AULA": "K-004,K-004"
         }
     ],
     "MT4683": [
         {
             "SEC": "1",
             "FORMATO": "216,217,316,317",
-            "PROFESOR": "JULIAN GONZ\u00c1LEZ"
+            "PROFESOR": "JULIAN GONZ\u00c1LEZ",
+            "AULA": "K-002,K-002,K-002"
         }
     ],
     "MT5112": [
         {
             "SEC": "1",
             "FORMATO": "314,315",
-            "PROFESOR": "OSCAR P\u00c9REZ T."
+            "PROFESOR": "OSCAR P\u00c9REZ T.",
+            "AULA": "K-003."
         }
     ],
     "MT5123": [
         {
             "SEC": "1",
             "FORMATO": "414,415,416",
-            "PROFESOR": "JULIAN GONZ\u00c1LEZ"
+            "PROFESOR": "JULIAN GONZ\u00c1LEZ",
+            "AULA": "K-003,K-003"
         }
     ]
 }
