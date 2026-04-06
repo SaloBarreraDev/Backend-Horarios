@@ -1729,7 +1729,7 @@
         {
             "SEC": "1",
             "FORMATO": "211,212,511,512",
-            "PROFESOR": "OSCAR M. JIM\u00c9NEZ P.",
+            "PROFESOR": "JUAN GARCIA",
             "AULA": "B-101,B-101,B-101"
         }
     ],
@@ -1749,7 +1749,13 @@
         {
             "SEC": "3",
             "FORMATO": "47,48,49,410",
-            "PROFESOR": "MILANYELA TER\u00c1N",
+            "PROFESOR": "JUAN GARCIA",
+            "AULA": "B-001,B-001,B-001"
+        },
+        {
+            "SEC": "4",
+            "FORMATO": "57,58,59,510",
+            "PROFESOR": "JUAN GARCIA",
             "AULA": "B-001,B-001,B-001"
         }
     ],
@@ -1805,7 +1811,13 @@
         {
             "SEC": "3",
             "FORMATO": "47,48,49,410",
-            "PROFESOR": "MILANYELA TER\u00c1N",
+            "PROFESOR": "JUAN GARCIA",
+            "AULA": "B-001,B-001,B-001"
+        },
+        {
+            "SEC": "4",
+            "FORMATO": "57,58,59,510",
+            "PROFESOR": "JUAN GARCIA",
             "AULA": "B-001,B-001,B-001"
         }
     ],
@@ -1903,12 +1915,6 @@
             "FORMATO": "17,18,19,113,114,115",
             "PROFESOR": "VIZCAYA DOIRAN",
             "AULA": "T.M.H,T.M.H,T.M.H,T.M.H,T.M.H"
-        },
-        {
-            "SEC": "3",
-            "FORMATO": "18,19,114,115,116,217",
-            "PROFESOR": "OSWALDO ESCALONA",
-            "AULA": "TR-01,T.M.H.1,T.M.H.1,T.M.H.1,TR-01"
         }
     ],
     "IM2054": [
@@ -1930,12 +1936,6 @@
             "SEC": "2",
             "FORMATO": "313,314,315,316,47,48,49",
             "PROFESOR": "IGNACIO BERMUDEZ",
-            "AULA": "T-M-H,T-M-H,T-M-H,T-M-H,T-M-H,T-M-H"
-        },
-        {
-            "SEC": "3",
-            "FORMATO": "313,314,315,316,47,48,49",
-            "PROFESOR": "JORGE  RIVERO",
             "AULA": "T-M-H,T-M-H,T-M-H,T-M-H,T-M-H,T-M-H"
         }
     ],
