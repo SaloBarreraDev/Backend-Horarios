@@ -408,7 +408,7 @@
             "SEC": "7",
             "FORMATO": "211,411,412",
             "PROFESOR": "Carlos Pi\u00f1a",
-            "AULA": "C-202,C-202"
+            "AULA": "INIA-003,INIA-003"
         },
         {
             "SEC": "8",
@@ -2374,8 +2374,8 @@
         },
         {
             "SEC": "2",
-            "FORMATO": "410,411,412",
-            "PROFESOR": "JULISSA VELASQUEZ",
+            "FORMATO": "310,311,312",
+            "PROFESOR": "MAR\u00cdA GABRIELA LUCENA",
             "AULA": "LAB- FEN,LAB-FEN"
         }
     ],
