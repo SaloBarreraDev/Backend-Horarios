@@ -1499,14 +1499,6 @@
             "AULA": "LABE,LABE"
         }
     ],
-    "III1033": [
-        {
-            "SEC": "1",
-            "FORMATO": "514,515,610,611",
-            "PROFESOR": "MILEXA MOGOLLON",
-            "AULA": "INI101,INI101,INI101"
-        }
-    ],
     "II1033": [
         {
             "SEC": "1",
@@ -2333,7 +2325,6 @@
             "AULA": "E-101,E-101,E-101"
         }
     ],
-    "IQ4113": [{"SEC": "1", "FORMATO": "29,210,57,58", "PROFESOR":"ALEJANDRA ESCOBAR", "AULA": "E-003,E-004"}],
     "IQ4093": [
         {
             "SEC": "2",
@@ -2342,6 +2333,7 @@
             "AULA": "E-004,E-003,E-003"
         }
     ],
+    "IQ4113": [{"SEC": "1", "FORMATO": "29,210,57,58", "PROFESOR":"ALEJANDRA ESCOBAR", "AULA": "E-003,E-004"}],
     "IQ4424": [
         {
             "SEC": "1",
@@ -2495,7 +2487,7 @@
         },
         {
             "SEC": "13",
-            "FORMATO": "17,18,37,78",
+            "FORMATO": "17,18,37,38",
             "PROFESOR": "YANITZA RODRIGUEZ",
             "AULA": "E004,E-001,E-001"
         }
@@ -2792,6 +2784,14 @@
             "FORMATO": "216,217,316,317",
             "PROFESOR": "JULIAN GONZ\u00c1LEZ",
             "AULA": "K-002,K-002,K-002"
+        }
+    ],
+    "III1033": [
+        {
+            "SEC": "1",
+            "FORMATO": "514,515,610,611",
+            "PROFESOR": "MILEXA MOGOLLON",
+            "AULA": "INI101,INI101,INI101"
         }
     ],
     "MT5112": [
