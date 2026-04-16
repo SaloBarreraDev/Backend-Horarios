@@ -37,6 +37,15 @@
             "AULA": "C-209,C-209,C-209,C-209,C-209"
         }
     ],
+    "III1033": [
+        {
+            "SEC": "1",
+            "FORMATO": "514,515,610,611",
+            "PROFESOR": "MILEXA MOGOLLON",
+            "AULA": "INI101,INI101,INI101"
+        }
+    ],
+    "IQ4113": [{"SEC": "1", "FORMATO": "29,210,57,58", "PROFESOR":"ALEJANDRA ESCOBAR", "AULA": "E-003,E-004"}],
     "EB1125": [
         {
             "SEC": "1",
@@ -381,6 +390,12 @@
             "AULA": "INIA-002,INIA-002"
         },
         {
+            "SEC": "10",
+            "FORMATO": "411,412",
+            "PROFESOR": "Balboa Melissa",
+            "AULA": "INIA-002"
+        },
+        {
             "SEC": "3",
             "FORMATO": "111,39,310",
             "PROFESOR": "Carlos Pi\u00f1a",
@@ -481,6 +496,12 @@
             "AULA": "INIA-002,INIA-002"
         },
         {
+            "SEC": "10",
+            "FORMATO": "59,510",
+            "PROFESOR": "Nohemi Castillo",
+            "AULA": "C-104"
+        },
+        {
             "SEC": "2",
             "FORMATO": "315,515,516",
             "PROFESOR": "Carmen Jimenez",
@@ -579,6 +600,12 @@
             "FORMATO": "19,110,510",
             "PROFESOR": "Dolores Gonzalez",
             "AULA": "INIA-004,INIA-004"
+        },
+        {
+            "SEC": "5",
+            "FORMATO": "29,210",
+            "PROFESOR": "Gianfranca Morillo",
+            "AULA": "C-209"
         }
     ],
     "EL1013": [
@@ -2333,7 +2360,6 @@
             "AULA": "E-004,E-003,E-003"
         }
     ],
-    "IQ4113": [{"SEC": "1", "FORMATO": "29,210,57,58", "PROFESOR":"ALEJANDRA ESCOBAR", "AULA": "E-003,E-004"}],
     "IQ4424": [
         {
             "SEC": "1",
@@ -2490,6 +2516,12 @@
             "FORMATO": "17,18,37,38",
             "PROFESOR": "YANITZA RODRIGUEZ",
             "AULA": "E004,E-001,E-001"
+        },
+        {
+            "SEC": "14",
+            "FORMATO": "17,18,57,58",
+            "PROFESOR": "JESUS IDROGO",
+            "AULA": "E-003,E-101,E-101"
         }
     ],
     "MT": [
@@ -2784,14 +2816,6 @@
             "FORMATO": "216,217,316,317",
             "PROFESOR": "JULIAN GONZ\u00c1LEZ",
             "AULA": "K-002,K-002,K-002"
-        }
-    ],
-    "III1033": [
-        {
-            "SEC": "1",
-            "FORMATO": "514,515,610,611",
-            "PROFESOR": "MILEXA MOGOLLON",
-            "AULA": "INI101,INI101,INI101"
         }
     ],
     "MT5112": [
