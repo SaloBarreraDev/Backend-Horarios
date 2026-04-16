@@ -2500,6 +2500,18 @@
     ],
     "IQ5113": [
         {
+            "SEC": "1",
+            "FORMATO": "19,110,39,310",
+            "PROFESOR": "YANITZA RODRIGUEZ",
+            "AULA": "E-101,E-001,E-001"
+        },
+        {
+            "SEC": "10",
+            "FORMATO": "213,214,513,514",
+            "PROFESOR": "ARNOLDO VALERA",
+            "AULA": "E003,E-003,E-003"
+        },
+        {
             "SEC": "11",
             "FORMATO": "313,314,413,414",
             "PROFESOR": "ANGEL MELENDEZ",
@@ -2522,6 +2534,54 @@
             "FORMATO": "17,18,57,58",
             "PROFESOR": "JESUS IDROGO",
             "AULA": "E-003,E-101,E-101"
+        },
+        {
+            "SEC": "2",
+            "FORMATO": "28,29,48,49",
+            "PROFESOR": "ARNOLDO VALERA",
+            "AULA": "E-001,E-002,E-002"
+        },
+        {
+            "SEC": "3",
+            "FORMATO": "19,110,59,510",
+            "PROFESOR": "JESUS IDROGO",
+            "AULA": "E-001,E-001,E-001"
+        },
+        {
+            "SEC": "4",
+            "FORMATO": "111,112,311,312",
+            "PROFESOR": "YANITZA RODRIGUEZ",
+            "AULA": "E-003,E-002,E-002"
+        },
+        {
+            "SEC": "5",
+            "FORMATO": "111,112,311,312",
+            "PROFESOR": "JESUS IDROGO",
+            "AULA": "E-004,E-003,E-003"
+        },
+        {
+            "SEC": "6",
+            "FORMATO": "215,216,415,416",
+            "PROFESOR": "JULIAN LOVERA",
+            "AULA": "E-003,E-101,E-101"
+        },
+        {
+            "SEC": "7",
+            "FORMATO": "19,110,59,510",
+            "PROFESOR": "MARIA RAQUEL CASTRO",
+            "AULA": "E-002,E-003,E-003"
+        },
+        {
+            "SEC": "8",
+            "FORMATO": "17,18,57,58",
+            "PROFESOR": "MARIA RAQUEL CASTRO",
+            "AULA": "E-002,E-002,E-002"
+        },
+        {
+            "SEC": "9",
+            "FORMATO": "213,214,413,414",
+            "PROFESOR": "JULIAN LOVERA",
+            "AULA": "E-004,E-004,E-004"
         }
     ],
     "MT": [
