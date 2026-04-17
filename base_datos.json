@@ -35,6 +35,12 @@
             "FORMATO": "19,110,39,310,59,510",
             "PROFESOR": "Jos\u00e9 Mogoll\u00f3n",
             "AULA": "C-209,C-209,C-209,C-209,C-209"
+        },
+        {
+            "SEC": "27",
+            "FORMATO": "113,114,313,314,413,414",
+            "PROFESOR": "Adolfo Morales",
+            "AULA": "C-107,C-107,C-107,C-208,C-208"
         }
     ],
     "III1033": [
@@ -96,6 +102,12 @@
             "FORMATO": "113,114,413,414,513,514",
             "PROFESOR": "Jenny Gatica",
             "AULA": "INIA-007,INIA-007,INIA-007,INIA-007,INIA-007"
+        },
+        {
+            "SEC": "18",
+            "FORMATO": "111,112,311,312,511,512",
+            "PROFESOR": "Jos\u00e9 Puerta",
+            "AULA": "C-107,C-103,C-103,C-104,C-104"
         },
         {
             "SEC": "3",
