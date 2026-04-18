@@ -268,6 +268,12 @@
             "FORMATO": "29,210,39,310,49,410",
             "PROFESOR": "Alexander Pe\u00f1a",
             "AULA": "C-107,C-107,C-107,C-107,C-107"
+        },
+        {
+            "SEC": "8",
+            "FORMATO": "211,212,311,312,411,412",
+            "PROFESOR": "Yunexy Castellanos",
+            "AULA": "C-108,C-108,C-108,C-108,C-108"
         }
     ],
     "EB2124": [
@@ -288,6 +294,12 @@
             "FORMATO": "111,112,311,312,511,512",
             "PROFESOR": "Humberto Rodriguez",
             "AULA": "C-201,C-201,C-201,C-201,C-201"
+        },
+        {
+            "SEC": "4",
+            "FORMATO": "17,18,37,38,57,58",
+            "PROFESOR": "Yunexy Castellanos",
+            "AULA": "E-001,E-001,E-001,A Definir,A Definir"
         }
     ],
     "EB2211": [
@@ -332,6 +344,12 @@
             "FORMATO": "313,314,315",
             "PROFESOR": "Humberto Rogr\u00edguez",
             "AULA": "LAB.1,LAB.1"
+        },
+        {
+            "SEC": "9",
+            "FORMATO": "413,414,415",
+            "PROFESOR": "Yunexy Castellanos",
+            "AULA": "LAB.1,LAB.1"
         }
     ],
     "EB3112": [
@@ -344,8 +362,20 @@
         {
             "SEC": "12",
             "FORMATO": "513,514,515,516",
-            "PROFESOR": "Jose Luis Pe\u00f1a",
+            "PROFESOR": "Contratado",
             "AULA": "C-101,C-101,C-101"
+        },
+        {
+            "SEC": "13",
+            "FORMATO": "47,48,49,410",
+            "PROFESOR": "Contratado",
+            "AULA": "C-106,C-106,C-106"
+        },
+        {
+            "SEC": "14",
+            "FORMATO": "57,58,59,510",
+            "PROFESOR": "Contratado",
+            "AULA": "C-106,C-106,C-106"
         }
     ],
     "EB3122": [
@@ -359,6 +389,18 @@
             "SEC": "10",
             "FORMATO": "49,410,411,412",
             "PROFESOR": "Rafael Ramir\u00e9z",
+            "AULA": "C-109,C-109,C-109"
+        },
+        {
+            "SEC": "11",
+            "FORMATO": "59,510,511,512",
+            "PROFESOR": "Jose Luis Pe\u00f1a",
+            "AULA": "C-109,C-109,C-109"
+        },
+        {
+            "SEC": "12",
+            "FORMATO": "413,414,415,416",
+            "PROFESOR": "Alejandro Aguilar",
             "AULA": "C-109,C-109,C-109"
         },
         {
