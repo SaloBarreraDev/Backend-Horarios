@@ -13,18 +13,6 @@
             "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
         },
         {
-            "SEC": "16",
-            "FORMATO": "113,114,313,314,513,514",
-            "PROFESOR": "Jenny Gatica",
-            "AULA": "INIA-007,INIA-007,INIA-007,INIA-007,INIA-007,INIA-007"
-        },
-        {
-            "SEC": "17",
-            "FORMATO": "113,114,313,314,513,514",
-            "PROFESOR": "Gilmer Gonz\u00e1lez",
-            "AULA": "C-104,C-104,C- 104,C-104,C- 104,C- 104"
-        },
-        {
             "SEC": "20",
             "FORMATO": "111,112,311,312,511,512",
             "PROFESOR": "Jos\u00e9 Mogoll\u00f3n",
@@ -55,6 +43,18 @@
             "FORMATO": "19,110,39,310,59,510",
             "PROFESOR": "Jos\u00e9 Mujica",
             "AULA": "IN1-A 006,IN1-A 006,IN1-A 006,IN1-A 006,C-108,C-108"
+        },
+        {
+            "SEC": "16",
+            "FORMATO": "113,114,313,314,513,514",
+            "PROFESOR": "Jenny Gatica",
+            "AULA": "INIA-007,INIA-007,INIA-007,INIA-007,INIA-007,INIA-007"
+        },
+        {
+            "SEC": "17",
+            "FORMATO": "113,114,313,314,513,514",
+            "PROFESOR": "Gilmer Gonz\u00e1lez",
+            "AULA": "C-104,C-104,C- 104,C-104,C- 104,C- 104"
         },
         {
             "SEC": "11",
