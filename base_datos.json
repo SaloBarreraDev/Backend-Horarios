@@ -7,10 +7,10 @@
             "AULA": "C-102,C-102,C-102,C-102,C-202,C-202"
         },
         {
-            "SEC": "15",
-            "FORMATO": "19,110,39,310,59,510",
-            "PROFESOR": "Francy Jim\u00e9nez",
-            "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
+            "SEC": "17",
+            "FORMATO": "113,114,313,314,513,514",
+            "PROFESOR": "Gilmer Gonz\u00e1lez",
+            "AULA": "C-104,C-104,C- 104,C-104,C- 104,C- 104"
         },
         {
             "SEC": "20",
@@ -45,18 +45,6 @@
             "AULA": "IN1-A 006,IN1-A 006,IN1-A 006,IN1-A 006,C-108,C-108"
         },
         {
-            "SEC": "16",
-            "FORMATO": "113,114,313,314,513,514",
-            "PROFESOR": "Jenny Gatica",
-            "AULA": "INIA-007,INIA-007,INIA-007,INIA-007,INIA-007,INIA-007"
-        },
-        {
-            "SEC": "17",
-            "FORMATO": "113,114,313,314,513,514",
-            "PROFESOR": "Gilmer Gonz\u00e1lez",
-            "AULA": "C-104,C-104,C- 104,C-104,C- 104,C- 104"
-        },
-        {
             "SEC": "11",
             "FORMATO": "29,210,39,310,49,410",
             "PROFESOR": "Jos\u00e9 Puertas",
@@ -79,6 +67,18 @@
             "FORMATO": "211,212,311,312,411,412",
             "PROFESOR": "Maira Aranguren",
             "AULA": "INIA-007,INIA-007,INIA-006,INIA-006,C-201,C-201"
+        },
+        {
+            "SEC": "15",
+            "FORMATO": "19,110,39,310,59,510",
+            "PROFESOR": "Francy Jim\u00e9nez",
+            "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
+        },
+        {
+            "SEC": "16",
+            "FORMATO": "113,114,313,314,513,514",
+            "PROFESOR": "Jenny Gatica",
+            "AULA": "INIA-007,INIA-007,INIA-007,INIA-007,INIA-007,INIA-007"
         }
     ],
     "EB1134": [
