@@ -19,6 +19,12 @@
             "AULA": "IN1-A 006,IN1A-006,C-103,C-103,C-108,C-108"
         },
         {
+            "SEC": "16",
+            "FORMATO": "115,116,315,316,515,516",
+            "PROFESOR": "Jose Navas",
+            "AULA": "C-209"
+        },
+        {
             "SEC": "21",
             "FORMATO": "113,114,313,314,513,514",
             "PROFESOR": "Naudy Gonzalez",
