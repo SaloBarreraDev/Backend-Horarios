@@ -7,10 +7,10 @@
             "AULA": "C-102,C-102,C-102,C-102,C-202,C-202"
         },
         {
-            "SEC": "17",
-            "FORMATO": "113,114,313,314,513,514",
-            "PROFESOR": "Gilmer Gonz\u00e1lez",
-            "AULA": "C-104,C-104,C- 104,C-104,C- 104,C- 104"
+            "SEC": "15",
+            "FORMATO": "19,110,39,310,59,510",
+            "PROFESOR": "Francy Jim\u00e9nez",
+            "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
         },
         {
             "SEC": "20",
@@ -69,16 +69,16 @@
             "AULA": "INIA-007,INIA-007,INIA-006,INIA-006,C-201,C-201"
         },
         {
-            "SEC": "15",
-            "FORMATO": "19,110,39,310,59,510",
-            "PROFESOR": "Francy Jim\u00e9nez",
-            "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
-        },
-        {
             "SEC": "16",
             "FORMATO": "113,114,313,314,513,514",
             "PROFESOR": "Jenny Gatica",
             "AULA": "INIA-007,INIA-007,INIA-007,INIA-007,INIA-007,INIA-007"
+        },
+        {
+            "SEC": "17",
+            "FORMATO": "113,114,313,314,513,514",
+            "PROFESOR": "Gilmer Gonz\u00e1lez",
+            "AULA": "C-104,C-104,C- 104,C-104,C- 104,C- 104"
         }
     ],
     "EB1134": [
@@ -2254,7 +2254,7 @@
     "IQ3113": [
         {
             "SEC": "1",
-            "FORMATO": "18,111,410,411",
+            "FORMATO": "18,19,410,411",
             "PROFESOR": "KAROLINE AGUILERA",
             "AULA": "E-003,E-003,E-001,E-001"
         }
