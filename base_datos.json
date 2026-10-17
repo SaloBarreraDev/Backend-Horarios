@@ -13,22 +13,28 @@
             "AULA": "INIA-008,INIA-008,INIA-008,INIA-008,INIA-008,INIA-008"
         },
         {
-            "SEC": "20",
-            "FORMATO": "111,112,311,312,511,512",
-            "PROFESOR": "Jos\u00e9 Mogoll\u00f3n",
-            "AULA": "IN1-A 006,IN1A-006,C-103,C-103,C-108,C-108"
-        },
-        {
             "SEC": "16",
             "FORMATO": "115,116,315,316,515,516",
             "PROFESOR": "Jose Navas",
             "AULA": "C-209"
         },
         {
+            "SEC": "20",
+            "FORMATO": "111,112,311,312,511,512",
+            "PROFESOR": "Jos\u00e9 Mogoll\u00f3n",
+            "AULA": "IN1-A 006,IN1A-006,C-103,C-103,C-108,C-108"
+        },
+        {
             "SEC": "21",
             "FORMATO": "113,114,313,314,513,514",
             "PROFESOR": "Naudy Gonzalez",
             "AULA": "C-202,C-202,C-202,C-202,C-202,C-202"
+        },
+        {
+            "SEC": "22",
+            "FORMATO": "111,112,311,312,511,512",
+            "PROFESOR": "Francy Jim\u00e9nez",
+            "AULA": "C-107,C-107,INIA-008,INIA-008,C-104,C-104"
         },
         {
             "SEC": "26",
@@ -328,12 +334,6 @@
             "SEC": "8",
             "FORMATO": "313,314,315",
             "PROFESOR": "Humberto Rodriguez",
-            "AULA": "LAB.1,LAB.1,LAB.1"
-        },
-        {
-            "SEC": "9",
-            "FORMATO": "410,411,412",
-            "PROFESOR": "Yuglio Ag\u00fcero",
             "AULA": "LAB.1,LAB.1,LAB.1"
         }
     ],
