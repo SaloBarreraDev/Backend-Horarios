@@ -351,6 +351,12 @@
             "AULA": "C-101,C-101,C-101,C-101"
         },
         {
+            "SEC": "13",
+            "FORMATO": "37,38,39,310",
+            "PROFESOR": "nan",
+            "AULA": "C-106,C-106,C-106,C-106"
+        },
+        {
             "SEC": "14",
             "FORMATO": "57,58,59,510",
             "PROFESOR": "Contratado",
